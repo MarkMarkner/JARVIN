@@ -1,0 +1,30 @@
+{
+  "schema": "claude-obsidian.config.v1",
+  "workspace": {
+    "name": "JARVEN",
+    "description": "Zentrale Wissensbasis für Mark OS — Gedächtnis und Wissensmaschine",
+    "vault_root": "/Users/ingmarkner/JARVIN",
+    "created": "2026-08-01"
+  },
+  "vault": {
+    "mode": "PARA",
+    "identity": "personal-professional-knowledge-system",
+    "purpose": "Projekte, Unternehmen, Personen, Aufgaben, Entscheidungen, Prozesse, Dokumente und Fachwissen strukturiert erfassen und miteinander verknüpfen",
+    "cockpit_target": "Mark OS"
+  },
+  "frontmatter": {
+    "required_fields": ["type", "title", "status", "created", "updated", "tags"],
+    "optional_fields": ["aliases", "address"],
+    "date_format": "YYYY-MM-DD"
+  },
+  "ledgers": {
+    "source_ledger_path": "wiki/meta/ledgers/source-ledger.json",
+    "claim_ledger_path": "wiki/meta/ledgers/claim-ledger.json",
+    "enabled": true
+  },
+  "safety": {
+    "backup_independent": true,
+    "treat_schema_check_as_verify": false,
+    "git_backups_enabled": false
+  }
+}

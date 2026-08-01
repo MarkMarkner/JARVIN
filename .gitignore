@@ -1,0 +1,65 @@
+# Claude-Obsidian Vault Runtime State
+# Excludes vault-local runtime/session state from version control
+
+# Vault Metadata & Runtime
+.vault-meta/
+.obsidian/
+
+# Raw Source Manifest (tracks only metadata, not source bytes)
+.raw/.manifest.json
+
+# Temporary & Session Files
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Lock Files & Indexes
+.obsidian.lock
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# Local REST API & Plugin Cache
+.obsidian/plugins/local-rest-api/
+.obsidian/community-plugins.json
+
+# Environment & Secrets (never commit)
+.env
+.env.local
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# Node/Build Artifacts (if applicable)
+node_modules/
+dist/
+build/
+*.log
+
+# IDE & Editor
+.vscode/
+.idea/
+*.iml
+
+# Backup & Archive
+*.backup
+*.archive
+*.zip
+*.tar.gz
+
+# Obsidian Sync & Publish (if used externally)
+.obsidian/sync.json
+.obsidian/publish.json
+
+# Transaction Journals (approved bundles only)
+# Unapproved transaction drafts may be excluded per policy
+# .vault-meta/transactions/drafts/
+
+# Exceptions: Vault Config & Structure (tracked)
+!.claude-obsidian.json
+!.gitignore
+!wiki/
+!inbox/
+!.raw/
