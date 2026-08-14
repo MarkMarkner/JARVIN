@@ -59,7 +59,7 @@ address: entity-000001
 | Type | Zweck | Beispiel |
 |------|-------|---------|
 | `source` | Nachverfolgbare Zusammenfassung einer Quelle | Claude-Obsidian Spec |
-| `entity` | Person, Org, Produkt, Projekt | Mark Ärner, Anthropic |
+| `entity` | Person, Org, Produkt, Projekt | Mark Markner, Anthropic |
 | `concept` | Idee, Framework, Definition | PARA-Method, Systems Thinking |
 | `question` | Scoped Q&A mit Evidence-Status | How to prioritize projects |
 | `comparison` | Kriteriengestützte Gegenüberstellung | LLM Models Comparison |
@@ -134,7 +134,7 @@ address: entity-000001
 
 ### Page Naming
 
-- **CamelCase oder Title Case**: `Claude-Obsidian Spec`, `Mark Ärner`, `PARA-Method`
+- **CamelCase oder Title Case**: `Claude-Obsidian Spec`, `Mark Markner`, `PARA-Method`
 - **Spaces OK**: Obsidian konvertiert zu Underscores in Paths, Links nutzen Spaces
 - **Keine unnötigen Präfixe**: `Entity Person - John Doe` ❌ → `John Doe` ✅
 - **Eindeutige Basenames bevorzugt**: `Claude` > `ai/Claude` (wenn keine Dubletten)

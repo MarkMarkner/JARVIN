@@ -3,7 +3,7 @@ type: meta
 title: Hot Context
 status: active
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-14
 tags:
   - wiki
   - context
@@ -32,14 +32,19 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ## 📋 Aktive Threads
 
-### 1. Wiki-Grundstruktur (2026-08-01)
+### 1. Wiki-Grundstruktur (2026-08-01 → 2026-08-14)
 - ✅ Ordner-Hierarchie erstellt
 - ✅ Core Pages: `index.md`, `log.md`, `hot.md`, `overview.md`
 - ✅ MCP-Konfiguration aktiv
-- ⏳ **Nächste Schritte**: 
-  - Erste entities (Organisationen, Projekte, Personen) erfassen
-  - `inbox/` mit initialen Quellen füllen
-  - `.gitignore` für `.vault-meta/` und `.raw/` Laufzeit-States
+- ✅ `.gitignore` finalisiert (2026-08-14)
+- ✅ Lint durchgeführt: 0 Fehler (2026-08-14)
+- ✅ Local REST API: AKTIV (Port 27124, HTTPS) (2026-08-14)
+- ✅ GitHub Remote: VERBUNDEN (2026-08-14)
+- ⏳ **Nächste Schritte** (Priorität): 
+  - [ ] Entity "Mark Markner" erstellen (aus TEMPLATE-Entity.md)
+  - [ ] Erste Source ingestieren (wiki/sources/)
+  - [ ] wiki/index.md mit neuen Entities updaten
+  - [ ] Source-Ledger mit first entry füllen
 
 ### 2. Provenance-Ledgers (2026-08-01)
 - ⏳ Templates erstellt (`source-ledger.json`, `claim-ledger.json`)
@@ -86,13 +91,33 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ## 🚀 Nächste Aktionen
 
-- [ ] Local REST API Plugin in Obsidian aktivieren
-- [ ] Initiale Entities-Batch vorbereiten (oder Inbox-Material sammeln)
-- [ ] `.gitignore` mit `.vault-meta/`, `.raw/.manifest.json` Runtime-States finalisieren
+- [x] Local REST API Plugin in Obsidian aktivieren
+- [x] Initiale Entities-Batch vorbereiten (oder Inbox-Material sammeln)
+- [x] `.gitignore` mit `.vault-meta/`, `.raw/.manifest.json` Runtime-States finalisieren
 - [ ] Erste `lint`-Run durchführen
 - [ ] Provenance-Ledgers in Gebrauch nehmen (erste Source ingestieren)
 
 ---
 
-*Zuletzt aktualisiert: 2026-08-01*  
-*Gültig für: Nächste Session*
+## 🚀 Session 2 Roadmap
+
+**Next Up:**
+1. **Session 2** — Michaela Markner Interview (16 Fragen)
+   - Investorin-Profil vervollständigen
+   - Fix & Flip Kapitalvertrag klären
+   - Holding-Partnerschaft dokumentieren
+
+2. **Session 2a** — Ingenieurbüro Markner Interview (16 Fragen)
+   - Geschäftsmodell dokumentieren
+   - Finanzielle Performance klären (9.000€/Monat)
+   - Zukunftsperspektive definieren
+   - Rolle in Holding-Struktur
+
+3. **Session 3** — Fix & Flip Detail-Session
+   - Agent 1 (Immobilienanalyse) live testen
+   - Konkrete Immobilien-Kandidaten analysieren
+
+---
+
+*Zuletzt aktualisiert: 2026-08-14*  
+*Gültig für: Nächste Sessions (2, 2a, 3)*

@@ -25,6 +25,8 @@ Zentrale Navigations- und Katalogseite für die **JARVEN**-Wissensbasis (Gedäch
 ### Betrieb & Wartung
 - [[wiki/log.md|Operation Log]] — Abgeschlossene Operationen (neueste zuerst)
 - [[wiki/meta/conventions.md|Conventions & Guidelines]] — Vault-Regeln und Best Practices
+- [[wiki/meta/system-documentation/index.md|Systemdokumentation]] — Vollständige Architektur & Erklärung
+- [[wiki/meta/JARVEN-Roadmap.md|JARVEN Roadmap & To-Do List]] — Sessions 2-6, Agents, Mark OS
 
 ---
 
@@ -37,6 +39,21 @@ Gespeicherte Quellen, Materialien und Roherfassungen.
 ### Entitäten
 Personen, Organisationen, Produkte, Projekte — alles mit stabiler Identität.
 - **`wiki/entities/`** — Entity-Pages (Menschen, Unternehmen, Produkte, Tools)
+
+#### Mark Markner & Ökosystem (Priorisiert)
+**Personen:**
+- [[wiki/entities/Mark Markner.md|Mark Markner]] — Founder, Bauingenieur, GF Markner Holding
+- [[wiki/entities/Michaela Markner.md|Michaela Markner]] — Investorin, Mutter, Partner
+- [[wiki/entities/Gelavije Markner.md|Gelavije Markner]] — Ehefrau, E-Commerce Betreiberin (Basis)
+
+**Organisationen:**
+- [[wiki/entities/Markner Holding GmbH.md|Markner Holding GmbH]] — Family Office, Beteiligungsgesellschaft (01.01.2026)
+- [[wiki/entities/IBA - Initiative Bau Archiv GmbH.md|IBA - Initiative Bau Archiv GmbH]] — Digitale Gebäudeakte, Tochtergesellschaft (01.01.2026)
+- [[wiki/entities/Ingenieurbüro Markner.md|Ingenieurbüro Markner]] — Freiberufliche Bauleitung (seit 01.04.2025)
+
+**Projekte:**
+- [[wiki/projects/Fix-und-Flip-Masterclass-2026-2027.md|Fix & Flip Masterclass 2026-2027]] — Mit Michaela Markner (50k€ Kapital)
+- [[wiki/projects/E-Commerce-Firmenkauf.md|E-Commerce Firmenkauf]] — Zu akquirieren, Gelavije Betreiberin
 
 ### Konzepte & Ideen
 Frameworks, Mechanismen, Definitionen, Fachbegriffe.

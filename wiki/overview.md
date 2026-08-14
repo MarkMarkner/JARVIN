@@ -88,7 +88,7 @@ Stabile Identitäten mit Metadaten und Beziehungen.
 
 **Beispiel-Struktur:**
 ```
-[[wiki/entities/Mark Ärner.md]]
+[[wiki/entities/Mark Markner.md]]
 [[wiki/entities/Anthropic.md]]
 [[wiki/entities/Mark OS Project.md]]
 ```
