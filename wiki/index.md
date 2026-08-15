@@ -159,7 +159,10 @@ Deterministic read-only: dead links, duplicates, orphans, missing frontmatter, e
 
 ---
 
-## 📝 Neueste Operationen
+## 📝 Neueste Operationen & Sessions
+
+**Session 1 Abschluss (2026-08-14):**
+- [[wiki/sessions/Session-1-2026-08-14-Abschluss.md|Session 1 — Vault Scaffolding & Completion]] — ✅ COMPLETE
 
 Siehe [[wiki/log.md|Operation Log]] für vollständige Historie.
 

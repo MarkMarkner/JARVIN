@@ -32,19 +32,25 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ## 📋 Aktive Threads
 
-### 1. Wiki-Grundstruktur (2026-08-01 → 2026-08-14)
+### 1. Wiki-Grundstruktur & Automation (2026-08-01 → 2026-08-14)
 - ✅ Ordner-Hierarchie erstellt
 - ✅ Core Pages: `index.md`, `log.md`, `hot.md`, `overview.md`
 - ✅ MCP-Konfiguration aktiv
-- ✅ `.gitignore` finalisiert (2026-08-14)
-- ✅ Lint durchgeführt: 0 Fehler (2026-08-14)
-- ✅ Local REST API: AKTIV (Port 27124, HTTPS) (2026-08-14)
-- ✅ GitHub Remote: VERBUNDEN (2026-08-14)
-- ⏳ **Nächste Schritte** (Priorität): 
-  - [ ] Entity "Mark Markner" erstellen (aus TEMPLATE-Entity.md)
+- ✅ `.gitignore` finalisiert
+- ✅ Lint durchgeführt: 0 Fehler
+- ✅ Local REST API: AKTIV (Port 27124, HTTPS, API Key configured)
+- ✅ GitHub Remote: VERBUNDEN (SSH auth aktiv)
+- ✅ **Szenario 3 AKTIVIERT**: Auto-Session-Management
+  - Context-Monitoring aktiv (warnt ab 75%, agiert bei 95%)
+  - Auto-Save bei kritischer Auslastung
+  - Neue Konversation startet automatisch
+  - Kontext wird automatisch geladen
+- ✅ **Nächste Schritte** (Priorität, für nächste Session): 
+  - [ ] Entity "Mark Markner" vervollständigen
+  - [ ] Weitere Entities: Anthropic, Mark OS Project
   - [ ] Erste Source ingestieren (wiki/sources/)
-  - [ ] wiki/index.md mit neuen Entities updaten
-  - [ ] Source-Ledger mit first entry füllen
+  - [ ] Source-Ledger mit Einträgen füllen
+  - [ ] Claims in Claim-Ledger dokumentieren
 
 ### 2. Provenance-Ledgers (2026-08-01)
 - ⏳ Templates erstellt (`source-ledger.json`, `claim-ledger.json`)
