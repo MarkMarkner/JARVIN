@@ -45,6 +45,11 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
   - Auto-Save bei kritischer Auslastung
   - Neue Konversation startet automatisch
   - Kontext wird automatisch geladen
+- ✅ **Option A AKTIVIERT**: Automatische tägliche Sessions
+  - Neue Session-Datei pro Tag (YYYY-MM-DD)
+  - Alte Sessions werden NICHT überschrieben
+  - Saubere, chronologische Struktur
+  - Dokumentation: `.claude/vault-session-config.md`
 - ✅ **Nächste Schritte** (Priorität, für nächste Session): 
   - [ ] Entity "Mark Markner" vervollständigen
   - [ ] Weitere Entities: Anthropic, Mark OS Project
