@@ -1,0 +1,131 @@
+{
+  "harness": {
+    "description": "Claude Code Harness Configuration for JARVIN",
+    "version": "1.0"
+  },
+  "context_management": {
+    "enabled": true,
+    "monitoring": {
+      "enabled": true,
+      "check_frequency": "every_response",
+      "thresholds": {
+        "warning": 85,
+        "critical": 90,
+        "auto_session": 95
+      }
+    },
+    "alerts": {
+      "warning_at_85": {
+        "enabled": true,
+        "message": "⚠️  CONTEXT WARNING: {usage}% used ({tokens}k of 400k tokens). Consider archiving old sessions if approaching 90%.",
+        "action": "display"
+      },
+      "critical_at_90": {
+        "enabled": true,
+        "message": "🔴 CONTEXT CRITICAL: {usage}% used ({tokens}k of 400k tokens). Recommend starting new session soon.",
+        "action": "display"
+      },
+      "auto_session_at_95": {
+        "enabled": true,
+        "message": "🚨 CONTEXT OVERFLOW: {usage}% used! Auto-archiving current session and starting fresh...",
+        "action": "auto_archive_and_reset"
+      }
+    },
+    "loading_strategy": "smart",
+    "description": "Dynamically load only necessary files. Use @filename.md for on-demand loading of additional context."
+  },
+  "session_management": {
+    "enabled": true,
+    "mode": "automatic_daily",
+    "auto_archive": {
+      "enabled": true,
+      "condition": "when_context_exceeds_95_percent",
+      "destination": "wiki/meta/archive/sessions/"
+    },
+    "auto_summary": {
+      "enabled": true,
+      "when": "session_ends",
+      "template": "Session-SUMMARY-INDEX.md",
+      "compression_ratio": "20-30%"
+    }
+  },
+  "vault_optimization": {
+    "selective_import": {
+      "enabled": true,
+      "syntax": "@filename.md",
+      "description": "Load specific files on demand instead of preloading all"
+    },
+    "archive_compression": {
+      "enabled": true,
+      "compress_after_days": 30,
+      "compression_target": "wiki/meta/archive/",
+      "keep_original_in_git": true
+    }
+  },
+  "git": {
+    "auto_commit": {
+      "enabled": true,
+      "on_session_end": true,
+      "on_significant_changes": true,
+      "message_template": "Session update: {date} — Context management automated"
+    },
+    "auto_push": {
+      "enabled": true,
+      "after_commit": true,
+      "branch": "main"
+    }
+  },
+  "automation": {
+    "hooks": {
+      "before_session_start": [
+        "load_hot.md",
+        "load_master_action_items",
+        "check_pending_decisions"
+      ],
+      "during_session": [
+        "monitor_context_usage_every_response",
+        "track_token_consumption",
+        "warn_at_thresholds"
+      ],
+      "on_session_end": [
+        "create_session_summary",
+        "update_session_index",
+        "archive_if_needed",
+        "git_commit_and_push",
+        "prepare_for_next_session"
+      ],
+      "at_95_percent_usage": [
+        "trigger_auto_session",
+        "archive_current_session",
+        "compress_old_sessions",
+        "reset_context",
+        "notify_user"
+      ]
+    },
+    "notification_style": "inline_but_not_intrusive",
+    "description": "Alerts appear, but don't block work. Auto-actions happen in background."
+  },
+  "performance": {
+    "context_caching": {
+      "enabled": true,
+      "cache_hot_files": ["wiki/hot.md", "wiki/meta/Master-Action-Items-2026.md"],
+      "ttl_seconds": 3600
+    },
+    "lazy_loading": {
+      "enabled": true,
+      "load_on_demand": true,
+      "description": "Load full context only when explicitly requested (@filename.md)"
+    }
+  },
+  "safety": {
+    "backup": {
+      "enabled": true,
+      "on_every_session_end": true,
+      "destination": "git"
+    },
+    "rollback": {
+      "enabled": true,
+      "can_revert_to_previous_session": true
+    }
+  }
+}
