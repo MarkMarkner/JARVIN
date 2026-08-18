@@ -58,7 +58,7 @@ Layer 1: CONFIG (.claude, 8 Dateien)
          ├─ settings.local.json (Permissions)
          ├─ automation-master.md
          ├─ context-loading-workflow.md
-         ├─ sprachrichtlinie.md
+         ├─ governance/ (01-sprachrichtlinie.md, 02-workflow-org, 03-project-workflow)
          ├─ vault-session-config.md
          ├─ context-optimization-strategy.md
          └─ phase-4-5-analyse.md
@@ -502,7 +502,7 @@ Nutzen:
 ### **Empfehlung 5: SPRACHRICHTLINIE CLARIEREN (Prio: NIEDRIG)**
 
 ```markdown
-Update .claude/sprachrichtlinie.md:
+Update .claude/governance/ Regeln:
 
 Klare Regeln für YAML vs. Markdown:
 

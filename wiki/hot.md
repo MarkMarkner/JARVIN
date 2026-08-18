@@ -66,11 +66,15 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ---
 
-## 🎯 NEUE RULE: Projekt-Workflow-Action Standard (2026-08-18)
+## 🎯 GOVERNANCE RULES (2026-08-18)
 
-**Datei:** `.claude/project-workflow-action-rule.md`  
+**Datei:** `.claude/governance/` (Zentrale Sammlung)  
 **Status:** 🟢 BINDEND & VERBINDLICH  
 **Gültig ab:** 2026-08-18
+
+**Alle Regeln ansehen:**
+→ [[.claude/governance/README.md|Governance Rules README]]  
+→ [[.claude/governance/rules-index.md|Rules Index (detailliert)]]
 
 **Das 3-Ebenen-Modell für komplexe Projekte:**
 

@@ -22,7 +22,7 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ### op-project-workflow-action-rule-001 | governance
 **Typ**: Projekt-Workflow-Action Regel — Standardisiertes Vorgehen dokumentiert  
-**Hauptseiten**: `.claude/project-workflow-action-rule.md`, `wiki/hot.md`  
+**Hauptseiten**: `.claude/governance/03-project-workflow-action-rule.md`, `wiki/hot.md`  
 **Ergebnis**: ✅ NEUE BINDENDE RULE — 3-Ebenen-Modell standardisiert
 
 **Details**:
@@ -62,9 +62,9 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ---
 
-### op-workflow-organization-rule-001 | governance
-**Typ**: Workflow-Organisierungsregel dokumentiert & etabliert  
-**Hauptseiten**: `.claude/workflow-organization-rule.md`, `wiki/hot.md`  
+### op-governance-restructuring-001 | governance
+**Typ**: Governance Rules strukturiert & zentralisiert  
+**Hauptseiten**: `.claude/governance/`, `wiki/hot.md`, `wiki/log.md`  
 **Ergebnis**: ✅ NEUE BINDENDE RULE — Dezentrale Workflow-Struktur
 
 **Details**:
@@ -86,7 +86,7 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 - Skalierbar: Alle zukünftigen Workflows folgen dieser Struktur
 
 **Dateien betroffen:**
-- `.claude/workflow-organization-rule.md` (neu)
+- `.claude/governance/02-workflow-organization-rule.md` (neu)
 - `wiki/hot.md` (aktualisiert mit Regel-Info)
 - `wiki/workflows/` (neue zentrale Location für alle Workflows)
 
