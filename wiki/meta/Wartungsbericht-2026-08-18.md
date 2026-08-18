@@ -105,6 +105,11 @@ Workflow gehören würden.
 **Empfehlung:** Option 3 kurzfristig, Option 1 bei nächster inhaltlicher
 Überarbeitung des jeweiligen Projekts. Kein Refactor-Selbstzweck.
 
+**✅ Erinnerung eingerichtet (2026-08-18):** Alle vier Projektdateien haben
+jetzt einen Callout-Block direkt unter der H1-Überschrift. Wer an der Datei
+arbeitet, sieht den Hinweis unmittelbar. Mechanismus dokumentiert in
+[[.claude/governance/04-wartungsroutine.md|Regel 04]].
+
 ### Befund B: Gleiche Dateinamen in entities/ und projects/
 
 Vier Namen existieren doppelt:
@@ -180,13 +185,27 @@ nicht im Scope. Gefunden wurden zusätzlich:
 **Konsequenz:** Regel 04 (Wartungsroutine) schreibt vor, dass Prüfungen
 ausschließlich über das Script laufen — nie ad-hoc.
 
-### Offener Punkt: Fehlende Entity
+### ✅ Behoben: Fehlende Entity „Sparkasse Berlin"
 
-`Sparkasse Berlin` wurde verlinkt, existiert aber nicht als Entity.
-Der Link wurde zu Fließtext umgewandelt. Angesichts der Bedeutung
-(Kreditlinie 200–250k€, Hr. Ullrich als Entscheider bis 2,5 Mio€)
-wäre eine Entity sinnvoll — das ist aber eine inhaltliche Entscheidung,
-keine Wartungsaufgabe.
+`Sparkasse Berlin` wurde verlinkt, existierte aber nicht als Entity.
+
+**Am 2026-08-18 angelegt:** [[wiki/entities/Sparkasse-Berlin.md|Sparkasse Berlin]]
+
+Bei der Erstellung fielen zwei Dokumentationsprobleme auf:
+
+**1. Konditionen ohne Primärquelle**  
+Die Konditionen (4,5 % Zins, 1,5 % Tilgung, 5 Jahre, 200–250k€) stehen an
+16 Stellen im Vault, aber **nicht im Protokoll des Termins vom 2026-08-17**.
+Sie stammen aus der Session-Nachbereitung. Eine schriftliche Bestätigung
+der Bank liegt nicht vor. → In der Entity als „mündlich" gekennzeichnet,
+schriftliche Bestätigung als offene Aufgabe aufgenommen.
+
+**2. Widersprüchliche Aussagen zur Verbindlichkeit**  
+- Protokoll: *„Weiche Finanzierungsbestätigung: NEIN, wird es nicht geben"*
+- Andere Dokumente: sprechen von *„Pre-Approval 200–250k€"*
+
+Es gibt **keine Zusage**. Die Bank hat Interesse signalisiert und einen
+Rahmen genannt. → In der Entity klargestellt.
 
 ---
 

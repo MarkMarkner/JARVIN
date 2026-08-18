@@ -20,6 +20,53 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ## 2026-08-18
 
+### op-entity-sparkasse-001 | ingest
+**Typ**: Entity Sparkasse Berlin erstellt + Befund-A-Erinnerung eingerichtet  
+**Hauptseiten**: `wiki/entities/Sparkasse-Berlin.md`, 4 Projektdateien, `.claude/governance/04-wartungsroutine.md`  
+**Ergebnis**: ✅ Entity angelegt | ✅ Erinnerungs-Mechanismus aktiv
+
+**1. Entity Sparkasse Berlin**
+
+Dokumentiert: Hr. Ullrich (Entscheidungskompetenz bis 2,5 Mio€),
+Finanzierungsmodell „Anlageprojekt" statt Bauträger, EK-Anforderung 20%,
+Vorfälligkeitsentschädigung ~5.000€, Mehrgleisigkeits-Strategie.
+
+**Zwei Dokumentationsprobleme aufgedeckt:**
+
+a) *Konditionen ohne Primärquelle:* 4,5% Zins / 1,5% Tilgung / 5 Jahre /
+   200-250k€ stehen an 16 Stellen im Vault, aber NICHT im Protokoll des
+   Termins vom 17.8. Stammen aus der Nachbereitung. Keine schriftliche
+   Bankbestätigung. → In Entity als „mündlich" markiert, Bestätigung als
+   offene Aufgabe aufgenommen.
+
+b) *Widersprüchliche Verbindlichkeit:* Protokoll sagt „weiche
+   Finanzierungsbestätigung: NEIN", andere Dokumente sprechen von
+   „Pre-Approval". → Klargestellt: Es gibt KEINE Zusage, nur signalisiertes
+   Interesse mit genanntem Rahmen.
+
+**2. Erinnerungs-Mechanismus für Befund A**
+
+Alle vier übergroßen Projektdateien haben jetzt einen Callout-Block direkt
+unter der H1-Überschrift:
+
+- Fix-und-Flip-Masterclass-2026-2027.md (575 Z.)
+- E-Commerce-Akquisition-2026.md (539 Z.)
+- IBA-Initiative-Bau-Archiv.md (498 Z.)
+- Mark-OS.md (393 Z.)
+
+Der Hinweis nennt die Zeilenzahl, verweist auf Bestandsschutz und
+empfiehlt den Split nach Regel 03 bei der nächsten inhaltlichen
+Überarbeitung.
+
+**Prinzip in Regel 04 verankert:** Offene Befunde werden als Callout in
+die betroffene Datei geschrieben, nicht nur in einen Bericht. Ein Bericht
+wird einmal gelesen — ein Callout erscheint genau dann, wenn jemand an
+der Datei arbeitet.
+
+**Status**: ✅ COMPLETE | Lint Exit 0
+
+---
+
 ### op-wartungsroutine-rule-001 | governance
 **Typ**: Regel 04 (Wartungsroutine) + Prüf-Script erstellt  
 **Hauptseiten**: `.claude/governance/04-wartungsroutine.md`, `.claude/scripts/vault-lint.sh`  

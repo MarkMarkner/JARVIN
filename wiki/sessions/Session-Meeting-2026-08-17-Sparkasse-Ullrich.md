@@ -181,7 +181,7 @@ Fix-und-Flip Projekt (Beispiel 500k€ Kaufpreis)
 ## 🔗 Verknüpfungen
 
 **Finanzierungspartner:**
-- **Sparkasse Berlin** — Hr. Ullrich (Kontakt etabliert) *(Entity noch nicht angelegt)*
+- [[wiki/entities/Sparkasse-Berlin.md|Sparkasse Berlin]] — Hr. Ullrich (Kontakt etabliert)
 
 **Entities:**
 - [[Mark Markner]] — Founder, Fix & Flip Manager

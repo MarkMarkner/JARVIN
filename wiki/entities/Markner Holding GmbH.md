@@ -268,7 +268,7 @@ Ausschüttung (geplant):
 ### Beratung & Unterstützung
 - **Steuerberater:** Hr. Gasenzer (Holding + IBA Fokus)
 - **Rechtsberatung:** TBD (für Darlehens-Verträge, M&A)
-- **Finanzierung:** Banken TBD (KfW, Sparkasse, Privatbanken)
+- **Finanzierung:** [[wiki/entities/Sparkasse-Berlin.md|Sparkasse Berlin]] (primär), KfW, Volksbank, Sparkasse Brandenburg
 
 ---
 

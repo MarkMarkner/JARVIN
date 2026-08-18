@@ -179,6 +179,53 @@ Die Prüfung dauert ca. 10–20 Sekunden.
 
 ---
 
+## 🔔 ERINNERUNGS-MECHANISMUS FÜR OFFENE BEFUNDE
+
+Manche Befunde werden bewusst **nicht sofort** behoben (Bestandsschutz).
+Damit sie nicht in Vergessenheit geraten, gilt:
+
+**Ein offener Befund wird als Callout-Block direkt in die betroffene Datei
+geschrieben — nicht nur in einen Bericht.**
+
+### Format
+
+```markdown
+> [!warning] Refactor-Hinweis (Befund X, Wartung YYYY-MM-DD)
+> [Was ist der Befund, mit konkreter Zahl]
+>
+> **Aktuell gilt Bestandsschutz** — kein Handlungsbedarf.
+> **Aber:** Wenn du diese Datei ohnehin überarbeitest, ist das der
+> richtige Moment für [Aktion].
+>
+> Empfehlung im [[Wartungsbericht]] · Vorgehen in [[Regel]]
+```
+
+### Platzierung
+
+**Direkt nach der H1-Überschrift**, vor dem Inhalt.
+
+Grund: Der Hinweis muss sichtbar sein, sobald die Datei geöffnet oder
+gelesen wird — auch bei teilweisem Lesen der ersten Zeilen.
+
+### Warum in der Datei und nicht nur im Bericht
+
+Ein Bericht wird einmal gelesen und dann vergessen. Ein Callout in der
+Datei erscheint **genau dann**, wenn jemand an dieser Datei arbeitet —
+also im richtigen Moment.
+
+### Aktuell offene Befunde mit Hinweis-Block
+
+| Datei | Befund | Zeilen |
+|-------|--------|--------|
+| `wiki/projects/Fix-und-Flip-Masterclass-2026-2027.md` | Befund A (Regel 03) | 575 |
+| `wiki/projects/E-Commerce-Akquisition-2026.md` | Befund A (Regel 03) | 539 |
+| `wiki/projects/IBA-Initiative-Bau-Archiv.md` | Befund A (Regel 03) | 498 |
+| `wiki/projects/Mark-OS.md` | Befund A (Regel 03) | 393 |
+
+**Wenn ein Befund behoben wurde:** Callout-Block entfernen.
+
+---
+
 ## 🚫 WAS NICHT ZUR WARTUNG GEHÖRT
 
 Klare Abgrenzung, damit die Routine schlank bleibt:

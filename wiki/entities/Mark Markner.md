@@ -300,7 +300,7 @@ Mark Markner ist ein **strategischer Entrepreneur** und Bauingenieur aus Berlin 
   - ✅ Kann als Sicherheit für Bankendarlehen hinterlegt werden
   - ✅ Potentieller **Eigenkapital-Hebel** für Immobilienfinanzierung
   - ✅ Alternative zu klassischem Aktienportfolio
-  - Könnte Kreditlinie bei Sparkasse Berlin stärken (vgl. [[wiki/sessions/Session-Meeting-2026-08-17-Sparkasse-Ullrich.md]])
+  - Könnte Kreditlinie bei [[wiki/entities/Sparkasse-Berlin.md|Sparkasse Berlin]] stärken (vgl. [[wiki/sessions/Session-Meeting-2026-08-17-Sparkasse-Ullrich.md]])
 
 - **Decision Framework:**
   - 🎯 Prüfung: Lohnt sich 4.200€ Initialkosten für Darlehnssicherheit?

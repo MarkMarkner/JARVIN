@@ -20,6 +20,20 @@ address: proj-fuf-002
 # Fix-und-Flip Masterclass 2026-2027
 ## Operativer Plan & Workflow
 
+> [!warning] Refactor-Hinweis (Befund A, Wartung 2026-08-18)
+> Diese Projektdatei hat **575 Zeilen** — Regel 03 gibt für Projekte
+> 50–200 Zeilen vor (operative Details gehören in einen Workflow unter
+> `wiki/workflows/`).
+>
+> **Aktuell gilt Bestandsschutz** — kein Handlungsbedarf.
+> **Aber:** Wenn du diese Datei ohnehin inhaltlich überarbeitest, ist das
+> der richtige Moment für den Split nach Regel 03.
+>
+> Empfehlung im [[wiki/meta/Wartungsbericht-2026-08-18.md|Wartungsbericht]] ·
+> Vorgehen in [[.claude/governance/03-project-workflow-action-rule.md|Regel 03]]
+
+
+
 **Owner:** Mark Markner  
 **Support:** Claude (Workflows + Dokumentation)  
 **Projekt-Entity:** [[wiki/entities/Fix-und-Flip-Masterclass-2026-2027.md|Entity: Fix-und-Flip Masterclass]]

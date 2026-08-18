@@ -21,6 +21,20 @@ address: proj-iba-002
 # IBA — Initiative Bau Archiv GmbH
 ## Operativer Plan & Workflow
 
+> [!warning] Refactor-Hinweis (Befund A, Wartung 2026-08-18)
+> Diese Projektdatei hat **498 Zeilen** — Regel 03 gibt für Projekte
+> 50–200 Zeilen vor (operative Details gehören in einen Workflow unter
+> `wiki/workflows/`).
+>
+> **Aktuell gilt Bestandsschutz** — kein Handlungsbedarf.
+> **Aber:** Wenn du diese Datei ohnehin inhaltlich überarbeitest, ist das
+> der richtige Moment für den Split nach Regel 03.
+>
+> Empfehlung im [[wiki/meta/Wartungsbericht-2026-08-18.md|Wartungsbericht]] ·
+> Vorgehen in [[.claude/governance/03-project-workflow-action-rule.md|Regel 03]]
+
+
+
 **Owner:** Mark Markner (Geschäftsführer)  
 **Support:** Claude (Projekt-Management, Checklisten)  
 **Projekt-Entity:** [[wiki/entities/IBA-Initiative-Bau-Archiv.md|Entity: IBA]]  
