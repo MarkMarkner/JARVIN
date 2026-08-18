@@ -387,6 +387,45 @@ Nach Phase A + Workflow-Erstellung: Ausgewählte Immobilie verhandeln + unter Ve
 
 ---
 
+### **FUTURE: Phase 4-5 Context Automation Completion (Sept-Okt 2026)** ⏰ SCHEDULED
+**Phase:** Phase 4-5 (Abschluss Context-Automation)  
+**Deadline:** 2026-10-31 (Spätestens)  
+**Start:** 2026-09-01 (Frühestens, wenn Phase 1-3 Daten haben)  
+**Priorität:** 🔴 HIGH  
+**Owner:** Mark + Claude  
+**Status:** ⏳ PLANNED FOR SEPTEMBER
+
+**Task 4: Archive-Komprimierung**
+- [ ] Sessions > 30 Tage alt identifizieren
+- [ ] Extrahiere Core Insights (20-30% Größe)
+- [ ] Erstelle Session-[ID]-COMPRESSED.md
+- [ ] Archiviere Original: wiki/meta/archive/sessions/[YYYY-MM]/
+- [ ] Update Session-Index
+- Deadline: 2026-09-30
+
+**Task 5: Full Lifecycle Automation + Dashboard**
+- [ ] Context Analytics Dashboard (ASCII Visualisierung)
+- [ ] Wachstumstrends & Forecast-Tool
+- [ ] Smart Query Optimization
+- [ ] Session Start/End Lifecycle Automation
+- [ ] Testing mit echten Daten
+- Deadline: 2026-10-31
+
+**Abhängigkeiten:**
+- ✅ Phase 1-3 müssen produktiv laufen
+- ✅ 2-4 Wochen echte Tracking-Daten verfügbar sein
+- ✅ Sessions > 30 Tage alt vorhanden sein
+
+**Aufwand:** 12-18 Stunden gesamt  
+**Impact:** 🟢 Sehr hoch (unbegrenztes Wachstum, volle Automatisierung)
+
+**Entscheidung:** Option 1 gewählt (Warten bis Sept statt jetzt)
+- Grund: Phase 1-3 brauchen echte Daten, optimal im Sept
+- Vorteil: Bessere Qualität, keine Blind-Spots
+- Siehe: `.claude/phase-4-5-analyse.md`
+
+---
+
 ## 🎯 REVISION LOG
 
 ### **2026-08-18 ENTSCHEIDUNGEN IMPLEMENTIERT** ✅
