@@ -40,20 +40,40 @@ Gespeicherte Quellen, Materialien und Roherfassungen.
 Personen, Organisationen, Produkte, Projekte — alles mit stabiler Identität.
 - **`wiki/entities/`** — Entity-Pages (Menschen, Unternehmen, Produkte, Tools)
 
+### Mark OS — Übergeordnetes System
+**Zentrale Architektur für Marks Managementsystem:**
+- [[wiki/entities/Mark-OS.md|Entity: Mark OS]] — System-Definition, Architektur, Vision
+- [[wiki/projects/Mark-OS.md|Projekt: Mark OS]] — Implementierung, Phasen, Roadmap
+- [[wiki/sessions/Session-6-2026-08-17-Mark-Interview-Mark-OS-Architektur.md|Session 6]] — Detaillierte Interview-Ergebnisse (20 Fragen)
+- **Status:** 🟡 Phase 1 (Einrichtung & Lernen)
+
 #### Mark Markner & Ökosystem (Priorisiert)
 **Personen:**
 - [[wiki/entities/Mark Markner.md|Mark Markner]] — Founder, Bauingenieur, GF Markner Holding
 - [[wiki/entities/Michaela Markner.md|Michaela Markner]] — Investorin, Mutter, Partner
-- [[wiki/entities/Gelavije Markner.md|Gelavije Markner]] — Ehefrau, E-Commerce Betreiberin (Basis)
+- [[wiki/entities/Gelavije Markner.md|Gelavije Markner]] — Ehefrau, E-Commerce Betreiberin
 
 **Organisationen:**
 - [[wiki/entities/Markner Holding GmbH.md|Markner Holding GmbH]] — Family Office, Beteiligungsgesellschaft (01.01.2026)
-- [[wiki/entities/IBA - Initiative Bau Archiv GmbH.md|IBA - Initiative Bau Archiv GmbH]] — Digitale Gebäudeakte, Tochtergesellschaft (01.01.2026)
+- **IBA — Initiative Bau Archiv GmbH**
+  - [[wiki/entities/IBA-Initiative-Bau-Archiv.md|Entity (Referenz)]] — SaaS-Plattform, Geschäftsmodell, Status
+  - [[wiki/projects/IBA-Initiative-Bau-Archiv.md|Projekt (Operativ)]] — Phasen, TODOs, Timeline, Risiken
+  - [[wiki/sessions/Session-5-2026-08-17-Mark-Interview-IBA-Status-Holding-Rolle.md|Session 5]] — Mark Interview (Status & Holding-Rolle)
+  - Digitale Gebäudeakte (Tochtergesellschaft, Förder-Prozess, Hauptsäule der Holding langfristig)
 - [[wiki/entities/Ingenieurbüro Markner.md|Ingenieurbüro Markner]] — Freiberufliche Bauleitung (seit 01.04.2025)
 
 **Projekte:**
-- [[wiki/projects/Fix-und-Flip-Masterclass-2026-2027.md|Fix & Flip Masterclass 2026-2027]] — Mit Michaela Markner (50k€ Kapital)
-- [[wiki/projects/E-Commerce-Firmenkauf.md|E-Commerce Firmenkauf]] — Zu akquirieren, Gelavije Betreiberin
+- **Fix-und-Flip Masterclass 2026-2027**
+  - [[wiki/entities/Fix-und-Flip-Masterclass-2026-2027.md|Entity (Referenz)]] — Projekt-Identität, Kapitalmodell, Beteiligte
+  - [[wiki/projects/Fix-und-Flip-Masterclass-2026-2027.md|Projekt (Operativ)]] — Workflow, Phasen, TODOs, Checklisten
+  - [[wiki/sessions/Session-3-2026-08-17-Fix-und-Flip-Detail-Workflow.md|Session 3]] — Detaillierte Dokumentation
+  - Mit Michaela Markner (50k€ Kapital) + Sparkasse Berlin (200-250k€ Kredit)
+
+- **E-Commerce Akquisition 2026**
+  - [[wiki/entities/E-Commerce-Akquisition-2026.md|Entity (Referenz)]] — Projekt-Identität, Strategie, Kandidaten-Kriterien
+  - [[wiki/projects/E-Commerce-Akquisition-2026.md|Projekt (Operativ)]] — Workflow (4 Phasen), TODOs, Checklisten, Timeline
+  - [[wiki/sessions/Session-4-2026-08-17-Mark-Interview-E-Commerce-Akquisition.md|Session 4]] — Mark Interview (23 Fragen)
+  - Ziel: Passives Business akquirieren (80-100k€/Jahr Profit), Kapital für Fix-und-Flip
 
 ### Konzepte & Ideen
 Frameworks, Mechanismen, Definitionen, Fachbegriffe.

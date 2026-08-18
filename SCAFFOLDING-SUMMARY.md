@@ -130,7 +130,7 @@ inbox/               ← Source-Aufnahme Puffer
    ```
 
 2. **Erste Entities erstellen** (Seed-Pages)
-   - Kopiere `wiki/entities/TEMPLATE-Entity.md` zu `wiki/entities/Mark Ärner.md`
+   - Kopiere `wiki/entities/TEMPLATE-Entity.md` zu `wiki/entities/Mark Markner.md`
    - Fülle mit Ihrer Informationen
    - Wiederhole für Top-Level Projekte/Organisationen
 

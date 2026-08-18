@@ -1,54 +1,92 @@
 ---
 type: meta
-title: JARVEN Roadmap & To-Do List
-status: active
+title: JARVEN Roadmap — ARCHIVE (veraltet)
+status: deprecated
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-17
 tags:
   - wiki
   - roadmap
-  - todo
-  - sessions
-address: meta-roadmap-001
+  - archive
+  - deprecated
+address: meta-roadmap-archive-001
 ---
 
-# JARVEN Roadmap & To-Do List
+# JARVEN Roadmap — ARCHIVE (veraltet)
 
-Strukturierte Liste aller ausstehenden Sessions, Entwicklungen und Agents für JARVEN & Mark OS.
+⚠️ **WICHTIG:** Diese Datei ist ARCHIVIERT (2026-08-17). Sie ist NICHT mehr die Source of Truth!
+
+**Neue Source of Truth:** [[wiki/meta/Master-Action-Items-2026.md|Master-Action-Items-2026.md]]
+
+**Grund für Archivierung:**
+- Master-Action-Items-2026.md ist aktueller (neu strukturiert, revidiert 2026-08-17)
+- Diese Roadmap war teilweise veraltet & redundant mit Master-Action-Items
+- Redundanz eliminieren: 1 Source of Truth für TODOs & Sessions
+
+**Für aktuelle Planung:** Siehe [[wiki/meta/Master-Action-Items-2026.md|Master-Action-Items-2026.md]]
+
+---
+
+# ARCHIVE: Alte Roadmap (2026-08-01)
+
+Ursprüngliche Liste aller ausstehenden Sessions, Entwicklungen und Agents für JARVEN & Mark OS.
+
+---
+
+## 🔴 BLOCKING TASKS (vor Sessions 2a/3)
+
+**3 kritische, nicht delegierbare Aufgaben:**
+
+| Task | Priorität | Fällig | Status | Details |
+|------|-----------|--------|--------|---------|
+| **1. Steuerberater** | 🔴 FIRST | 2026-08-16 | ⏳ | Dienstleistungsvertrag validieren |
+| **2. Jurist** | 🔴 SECOND | 2026-08-17 | ⏳ | GbR-Gründung + Gesellschaftervertrag |
+| **3. Flip-Verträge** | 🔴 THIRD | 2026-08-21 | ⏳ | Template basierend auf Steuerberater-OK |
+
+**Vollständige TODO-Liste:** [[wiki/meta/Session-2-TODO.md|Session 2 — TODO & Nächste Schritte]]
 
 ---
 
 ## 🎯 Ausstehende Sessions (2-7)
 
-### Session 2: Michaela Markner Interview ⏳
-**Status:** Vorbereitet | **Priorität:** 🔴 Hoch  
+### Session 2: Michaela Markner Interview ✅ COMPLETE
+**Status:** ✅ COMPLETE | **Priorität:** 🔴 Hoch  
 **Dauer:** ~60-90 Min  
 **Ziele:**
-- [ ] Michaela-Interview durchführen (16 Fragen)
-- [ ] Entity [[wiki/entities/Michaela Markner.md]] mit vollem Profil füllen
-- [ ] Fix & Flip Kapital-Vertrag klären
-- [ ] Holding-Partnerschaft dokumentieren
-- [ ] Finanzielle Struktur finalisieren
+- [x] Michaela-Interview durchführen (16 Fragen) ✅
+- [x] Entity [[wiki/entities/Michaela Markner.md]] mit vollem Profil füllen ✅
+- [x] Fix & Flip Kapital-Vertrag klären ✅ (Dienstleistungsvertrag mit Provisionsmodell)
+- [x] Holding-Partnerschaft dokumentieren ✅ (Langfristig, thesaurierend)
+- [x] Finanzielle Struktur finalisieren ✅
 
 **Abhängigkeiten:** Session 1 ✅ Complete  
-**Output:** Michaela Entity complete + Vertrag-Template
+**Output:** Michaela Entity complete + Vertrag-Modell dokumentiert  
+**Session Link:** [[wiki/sessions/Session-2-2026-08-14-Michaela-Interview.md|Session 2 — Michaela Interview]] ✅
+
+**Key Insights:**
+- Dienstleistungsvertrag mit Provisionsmodell (Mark = Dienstleister + Unternehmer)
+- Michaela trägt kein Kapital-Risiko (Mark trägt Verluste)
+- Ab 2-3 Flips: GbR-Gründung erforderlich
+- Thesaurierungs-Strategie (Gewinne reinvestieren)
+- Generationen-Strategie: Kinder erben Holding (nicht Geld)
 
 ---
 
-### Session 2a: Ingenieurbüro Markner Interview ⏳
-**Status:** Vorbereitet | **Priorität:** 🔴 Hoch  
+### Session 2a: Ingenieurbüro Markner Interview 🔴 ACTIVE
+**Status:** 🔴 IN PROGRESS | **Priorität:** 🔴 Hoch  
 **Dauer:** ~60-90 Min  
 **Ziele:**
-- [ ] Detailliertes Interview zur Bauleitung durchführen
+- [ ] 16 Interview-Fragen durchgehen
 - [ ] Entity [[wiki/entities/Ingenieurbüro Markner.md]] mit vollem Profil füllen
-- [ ] Geschäftsmodell dokumentieren (Stundensätze, Projekte, Auslastung)
-- [ ] Finanzielle Leistung erfassen (9.000€/Monat, Sparquote)
-- [ ] Auftrag bis 31.08.2027 dokumentieren
-- [ ] Rolle in Markner Holding klären (Einkommens-Säule)
-- [ ] Zukunftsperspektive (Wechsel zu IBA oder andere Projekte?)
+- [ ] Geschäftsmodell dokumentieren (Auftragsaquise, Projekte, Auslastung)
+- [ ] Finanzielle Leistung erfassen (9.000€/Monat, Steuern, Rücklagen)
+- [ ] Auftrag bis 31.08.2027 + Folgeprojekt klären
+- [ ] Rolle in Markner Holding klären (Einkommens-Säule, privat oder integriert?)
+- [ ] Zukunftsperspektive (Wechsel zu IBA? Parallelbetrieb? Ausstiegs-Timeline?)
 
-**Abhängigkeiten:** Session 1 ✅ Complete, Session 2 (Michaela Interview) abgeschlossen  
-**Output:** Ingenieurbüro Entity complete + Geschäftsmodell dokumentiert
+**Abhängigkeiten:** Session 1 ✅ Complete, Session 2 ✅ Complete  
+**Output:** Ingenieurbüro Entity complete + Geschäftsmodell & Strategie dokumentiert  
+**Session Link:** [[wiki/sessions/Session-2a-2026-08-14-Ingenieurbüro-Interview.md|Session 2a — Ingenieurbüro Interview]]
 
 ---
 

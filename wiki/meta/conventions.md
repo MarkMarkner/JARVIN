@@ -210,6 +210,68 @@ wiki/
 
 ---
 
+## 🔑 Entity vs Projekt — Smart Link Architektur
+
+**KRITISCHE REGEL für alle Projekt-Pairs:**
+
+Wenn es einen Projekt-Namen mit **BEIDEN** Entity + Projekt-Dateien gibt (z.B. "Fix-und-Flip", "E-Commerce", "IBA"), **MUSS** folgende Struktur verwendet werden:
+
+### Entity = Referenz-Seite (Kurzform)
+```markdown
+# Projekt-Name
+
+## 📌 Projekt-Identität
+- Name, Typ, Status, Owner, Deadline
+
+## 👥 Beteiligte (Tabelle, kompakt)
+
+## 💰 Kapital/Budget (Kurzform nur)
+
+## 🎯 Projekt-Ziel (1-3 Sätze)
+
+## 📊 KPIs (1-2 Tabellen max)
+
+## 🔗 Operative Details & Dokumentation
+
+→ Siehe [[wiki/projects/Projekt-Name.md|Projekt]] für:
+- Vollständigen Workflow/Phasen
+- Detaillierte TODOs & Checklisten
+- Timelines & Roadmaps
+- Risiken & Mitigationen
+```
+
+**Zweck:** Entity beantwortet "WAS ist es?" — Schneller Lookup
+
+### Projekt = Master-Seite (Vollständig)
+```markdown
+# Projekt-Name — Operativer Plan
+
+## Alle Details hier:
+- Phasen, Timelines, Workflows
+- TODOs, Checklisten
+- Kapitalmodelle (vollständig)
+- Risiken, Mitigationen
+- KPIs, Metriken
+- Interview-Referenzen
+```
+
+**Zweck:** Projekt beantwortet "WIE wird es gemacht?" — Operative Quelle der Wahrheit
+
+### Single Source of Truth
+- ✅ **PROJEKT** ist die Master-Datei (Wahrheit)
+- ✅ **ENTITY** verweist auf Projekt (Link, nicht Duplikat)
+- ❌ Keine Duplikat-Inhalte (Kapitalmodell, Timeline, etc. nur im Projekt)
+- ❌ Keine Redundanz
+
+### Sprach-Konsistenz (Global)
+- ✅ Alle Überschriften: **Deutsch**
+- ✅ Dateinamen: Deutsch oder Englisch (konsistent pro Projekt)
+- ✅ Englische Fachbegriffe: In Klammern erlaubt
+- ❌ Englische Sektions-Titel
+- ❌ Sprachmix in Überschriften
+
+---
+
 ## ⚙️ Operative Workflows
 
 ### 1. Ingest (Neue Quellen & Entities aufnehmen)
@@ -302,6 +364,15 @@ Deterministic read-only Report:
 - [ ] Auf die neue Page von `wiki/index.md` linken
 - [ ] Operation in `wiki/log.md` hinzufügen
 
+### Neues Projekt (Entity + Projekt Pair) erstellen
+- [ ] **Entity-Datei:** Kurzform (Identität, Beteiligte, Status, KPIs)
+- [ ] **Projekt-Datei:** Master (alle operativen Details, TODOs, Workflows)
+- [ ] **Smart Link:** Entity → "Siehe Projekt für Details"
+- [ ] **Sprache:** Alle Überschriften Deutsch (kein Mix)
+- [ ] **Keine Duplikation:** Kapitalmodelle/Timelines nur im Projekt
+- [ ] Beide in `wiki/index.md` verlinken (Entity + Projekt getrennt)
+- [ ] Operation in `wiki/log.md` als "Entity/Projekt Pair erstellt"
+
 ### Page aktualisieren
 - [ ] `updated` Datum ändern
 - [ ] Bei Statusänderung: `status` updaten
@@ -359,5 +430,188 @@ Deterministic read-only Report:
 
 ---
 
-*Zuletzt aktualisiert: 2026-08-01*  
-*Conventions v1 — Claude-Obsidian Schema*
+## 🔐 META-EBENE GOVERNANCE RULES (Mark OS Phase 1/2/3)
+
+**Zweck:** Governance Conventions für decision-log, automations-registry, mark-os-governance
+
+### Rule 1: Decision Log Entry (Phase 1)
+
+Alle strategischen Entscheidungen (Holding-Level & höher) MÜSSEN dokumentiert sein:
+
+```
+DEC-YYYY-XXX: [Entscheidung]
+├─ Datum: YYYY-MM-DD
+├─ Entscheidungsträger: Mark Markner
+├─ Status: 🔴 PENDING | ✅ ENTSCHIEDEN
+├─ Rationale: [Why this decision? What were the options?]
+├─ Entscheidung: JA | NEIN | CONDITIONAL
+├─ Ergebnis: [What tasks were created/changed?]
+├─ Impact: [Master-Action-Items changes]
+└─ Review Notes (Phase 2): [Filled after Decision Review]
+```
+
+**Linked zu:**
+- [[wiki/meta/decision-log.md|decision-log.md]] — Central Registry
+- [[wiki/meta/decisions/DEC-YYYY-XXX.md|Detailed File]] — Full Details
+- [[wiki/meta/Master-Action-Items-2026.md|Master-Action-Items]] — Task Impact
+
+---
+
+### Rule 2: Automations Registry Entry (Phase 2/3)
+
+Alle Automationen MÜSSEN spezifiziert sein BEVOR Entwicklung startet:
+
+```
+AUTO-XXX: [Automation Name]
+├─ Phase: 🟡 Phase 2 | Phase 3
+├─ Status: 🔴 GEPLANT | 🟡 IN PROGRESS | 🟢 LIVE
+├─ Owner: Claude (Dev) + Mark (Approval)
+├─ Trigger: [When does automation run?]
+├─ Input Schema: {JSON definition}
+├─ Output Schema: {JSON definition}
+├─ Dependencies: [What must be in place first?]
+├─ Timeline: Q4 2026 (Start Oct 1, Deploy Oct 15)
+├─ Test Plan: [Define how to test]
+├─ Rollout Plan: [Define how to deploy]
+└─ Monitoring: [Define how to monitor 2 weeks post-deployment]
+```
+
+**Linked zu:**
+- [[wiki/meta/automations-registry.md|automations-registry.md]] — Central Registry
+- [[wiki/meta/automations/AUTO-XXX.md|Detailed File]] — Full Specs
+- [[wiki/meta/mark-os-governance.md|mark-os-governance.md]] — Phase 3 Workflow
+
+---
+
+### Rule 3: Mark is ALWAYS Decision-Maker
+
+**Kritisch:** Alle strategischen Entscheidungen kommen von Mark, nicht Claude
+
+- ❌ Claude entscheidet, Mark ratifiziert
+- ✅ Claude empfiehlt, Mark entscheidet
+
+**Process:**
+1. Claude: Analyse + Empfehlung
+2. Mark: Entscheidung (JA/NEIN/CONDITIONAL)
+3. Claude: Dokumentation in decision-log
+4. Claude: Tasks updaten basierend auf Entscheidung
+
+---
+
+### Rule 4: Documentation BEFORE Execution
+
+Entscheidungen & Automationen MÜSSEN dokumentiert sein VOR Umsetzung startet
+
+- ❌ Task starten → später dokumentieren
+- ✅ Entscheidung dokumentieren → Task starten
+
+**Sequence:**
+```
+Entscheidung: documented → DEC-XXX → task created
+Automation: spezifiziert → AUTO-XXX → entwicklung startet
+```
+
+---
+
+### Rule 5: Governance Layers (Meta-Struktur)
+
+Alle Meta-Dateien folgen dieser Hierarchie:
+
+**Layer 1: Governance** (decision-log, mark-os-governance)
+- Wer entscheidet? Wie?
+- Workflows für Phase 1/2/3
+
+**Layer 2: Planning** (Master-Action-Items)
+- Welche TODOs?
+- Deadlines & Owner
+
+**Layer 3: Automation** (automations-registry)
+- Welche Automationen?
+- Status & Timeline
+
+**Layer 4: Monitoring** (dashboard-definitions, log, hot)
+- Wie ist der Status?
+- Welche Risiken?
+
+---
+
+### Rule 6: Phase-Specific Workflows
+
+**Phase 1 (Aug-Sept 2026):** Entscheidungs-Freigabe
+- Decisions getroffen → documented in decision-log
+- Monatliche Decision Review (ab Sept)
+
+**Phase 2 (Sept+ 2026):** Learning & Automation Prep
+- Entscheidungen reviewed (war das richtig?)
+- Automationen spezifiziert & teilweise developed
+- Dashboards getestet
+
+**Phase 3 (Jan+ 2027):** Automations Scale
+- Automationen deployed (AUTO-001, 002, 003, 004)
+- Dashboards live
+- Minimal manuelle Arbeit
+
+---
+
+### Rule 7: Zentrale vs Dezentralisierte Struktur
+
+**Zentral** (Überblick):
+- decision-log.md — alle Entscheidungen in einer Datei
+- automations-registry.md — alle Automationen in einer Datei
+- dashboard-definitions.md — alle Metriken definiert
+
+**Dezentralisiert** (Details):
+- wiki/meta/decisions/DEC-XXX.md — Detaillierte Entscheidung
+- wiki/meta/automations/AUTO-XXX.md — Detaillierte Automation
+- wiki/meta/governance/PHASE-X.md — Detailed Workflow
+
+**Linking:** Zentral → verweist auf dezentralisiert für Details
+
+---
+
+**Updated:** 2026-08-17  
+**Governance v1 — Mark OS Phase 1/2/3 Workflows**
+
+---
+
+## 🌐 SPRACHREGEL — 100% DEUTSCH (Englische Fachbegriffe erlaubt)
+
+### Regel:
+- ✅ **ALLE Überschriften:** Deutsch
+- ✅ **ALLE Texte:** Deutsch
+- ✅ **Englische Fachbegriffe:** Erlaubt & erwünscht
+- ❌ **Englische Sektions-Header:** Nicht erlaubt
+
+### Erlaubte englische Fachbegriffe:
+Dataview, Query, Schema, API, JSON, Holding, GmbH, Entity, Projekt, Automation, Dashboard, Cockpit, FBA, Etsy, Shopify, Workflow, Trigger, Phase, Rollout, Deployment, SaaS, MRR, CAC
+
+### Konvertierungs-Beispiele:
+- ❌ `## Purpose` → ✅ `## Zweck`
+- ❌ `## Timeline` → ✅ `## Zeitrahmen`
+- ❌ `## Process` → ✅ `## Prozess`
+- ❌ `## Task` → ✅ `## Aufgabe`
+- ✅ `Dataview Query` → ✅ `Dataview-Query` (ok, keine Übersetzung nötig)
+
+### Gültig für:
+- Alle Meta-Dateien (decisions, automations, governance, dashboard, etc.)
+- Alle operativen Dateien (Master-Action-Items, hot, log)
+- Alle Tier-1/2/3 Dateien
+
+---
+
+## JARVIN-REGELN — Wie Meta-Ebene gefüllt wird
+
+**Siehe:** [[wiki/meta/JARVIN-FILL-RULES.md|JARVIN-Füllanleitung]]
+
+**Wichtigste Regeln:**
+1. **Sprache:** 100% Deutsch (englische Fachbegriffe ok)
+2. **Format:** Folge den Templates in JARVIN-FILL-RULES.md
+3. **Links:** Alle Wikilinks müssen vollständig sein ([[path/to/file.md|Text]])
+4. **Status-Icons:** Immer Icons verwenden (🔴🟡🟢✅)
+5. **Datumsformat:** Immer YYYY-MM-DD
+6. **Qualitätskontrolle:** 5-Punkt-Prüfung vor Speichern
+
+---
+
+*Zuletzt aktualisiert: 2026-08-17*  
+*Conventions v1.2 — Claude-Obsidian Schema + Meta-Governance + Sprachregel*

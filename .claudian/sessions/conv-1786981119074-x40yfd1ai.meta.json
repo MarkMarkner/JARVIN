@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786981119074-x40yfd1ai",
+  "providerId": "claude",
+  "title": "Optimize TODO system with entity recognition",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786981119077,
+  "lastActivityAt": 1786981150090,
+  "sessionId": "7a702df7-c752-41dd-9c70-589ba6576758",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7a702df7-c752-41dd-9c70-589ba6576758"
+  },
+  "currentNote": "wiki/meta/Master-Action-Items-2026.md",
+  "isPinned": false,
+  "isArchived": true,
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 7435,
+    "cacheReadInputTokens": 14995,
+    "contextWindow": 200000,
+    "contextTokens": 22438,
+    "percentage": 11
+  }
+}

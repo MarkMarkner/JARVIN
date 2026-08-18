@@ -109,12 +109,12 @@ Application in [different context].
 
 ---
 
-## Notes for Next Session
+## Notizen für nächste Session
 
-- [ ] Expand "How It Works" section with more detail
-- [ ] Add real-world examples
-- [ ] Link to more entities that use this concept
-- [ ] Verify evidence with sources
+- [ ] Abschnitt "Wie es funktioniert" mit mehr Details erweitern
+- [ ] Praktische Beispiele hinzufügen
+- [ ] Links zu mehr Entities hinzufügen, die dieses Konzept nutzen
+- [ ] Belege mit Quellen überprüfen
 
 ---
 

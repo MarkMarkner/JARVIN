@@ -1,25 +1,25 @@
 {
   "id": "conv-1785582928162-08vjrvydq",
   "providerId": "claude",
-  "title": "Configure Obsidian MCP and scaffold wiki",
+  "title": "Conversation (alt)",
   "titleGenerationStatus": "success",
   "createdAt": 1785582928162,
-  "updatedAt": 1785612315312,
-  "lastResponseAt": 1785612315312,
+  "lastActivityAt": 1786980868836,
   "sessionId": "098b4c0f-b4ba-4038-83be-4458cd5f5daf",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "098b4c0f-b4ba-4038-83be-4458cd5f5daf"
   },
   "currentNote": "WIKI.md",
+  "isPinned": false,
+  "isArchived": true,
   "usage": {
     "model": "haiku",
-    "inputTokens": 10,
-    "cacheCreationInputTokens": 1503,
-    "cacheReadInputTokens": 76761,
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 856,
+    "cacheReadInputTokens": 194392,
     "contextWindow": 200000,
-    "contextWindowIsAuthoritative": true,
-    "contextTokens": 78274,
-    "percentage": 39
+    "contextTokens": 195256,
+    "percentage": 98
   }
 }

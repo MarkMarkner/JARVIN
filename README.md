@@ -84,7 +84,7 @@ JARVEN/
 
 ### `wiki/entities/` — Stabile Identitäten
 ```
-[[wiki/entities/Mark Ärner.md]]
+[[wiki/entities/Mark Markner.md]]
 [[wiki/entities/Anthropic.md]]
 [[wiki/entities/Mark OS Project.md]]
 ```
@@ -156,7 +156,7 @@ Dead Links → Orphans → Missing Frontmatter → Repair Proposals
 ## 🚀 Nächste Aktionen
 
 - [ ] **Local REST API aktivieren** (Obsidian)
-- [ ] **Initiale Entities** erstellen (Mark Ärner, Projekte, Organisationen)
+- [ ] **Initiale Entities** erstellen (Mark Markner, Projekte, Organisationen)
 - [ ] **Erste Sources** in `inbox/` sammeln
 - [ ] **Ingest Operation** durchführen (Sources → wiki/sources/)
 - [ ] **Lint durchführen** — Überprüfe Konsistenz
@@ -184,7 +184,7 @@ Dead Links → Orphans → Missing Frontmatter → Repair Proposals
 
 ## 📝 Kontakt & Support
 
-**Vault Betreuer**: Mark Ärner  
+**Vault Betreuer**: Mark Markner  
 **Vault Purpose**: Mark OS Knowledge Backend  
 **Created**: 2026-08-01  
 **Status**: 🟢 Aktiv & Bereit für Einsatz

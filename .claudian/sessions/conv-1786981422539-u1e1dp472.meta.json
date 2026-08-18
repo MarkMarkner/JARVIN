@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786981422539-u1e1dp472",
+  "providerId": "claude",
+  "title": "Tier 3 - Mark OS",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786981422544,
+  "lastActivityAt": 1786998709418,
+  "sessionId": "6aff4c31-4ad8-44d9-8148-dc6f704c8cae",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "6aff4c31-4ad8-44d9-8148-dc6f704c8cae"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 626,
+    "cacheReadInputTokens": 195223,
+    "contextWindow": 200000,
+    "contextTokens": 195859,
+    "percentage": 98
+  }
+}

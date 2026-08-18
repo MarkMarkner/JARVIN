@@ -3,7 +3,8 @@ type: meta
 title: Hot Context
 status: active
 created: 2026-08-01
-updated: 2026-08-14
+updated: 2026-08-17
+session: todo-review
 tags:
   - wiki
   - context
@@ -110,23 +111,163 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ---
 
-## 🚀 Session 2 Roadmap
+## ✅ SESSION 2a COMPLETE — Ingenieurbüro Markner Interview
 
-**Next Up:**
-1. **Session 2** — Michaela Markner Interview (16 Fragen)
-   - Investorin-Profil vervollständigen
-   - Fix & Flip Kapitalvertrag klären
-   - Holding-Partnerschaft dokumentieren
+**Completed Session:**
+[[wiki/sessions/Session-2a-2026-08-14-Ingenieurbüro-Interview.md|Session 2a — Ingenieurbüro Interview]] ✅ COMPLETE
 
-2. **Session 2a** — Ingenieurbüro Markner Interview (16 Fragen)
+**16 Fragen beantwortet & dokumentiert:**
+- ✅ Sektion 1: Geschäftliches Modell (6 Fragen)
+- ✅ Sektion 2: Finanzielle Details (6 Fragen)
+- ✅ Sektion 3: Zukunft & Strategie (4 Fragen)
+
+**Session 2a Ergebnisse:**
+- ✅ 16 Interview-Fragen durchgearbeitet
+- ✅ Entity [[wiki/entities/Ingenieurbüro Markner.md]] vollständig gefüllt
+- ✅ Bauleitung-Geschäftsmodell dokumentiert
+- ✅ Finanzielle Sicherheit & Puffer bewertet
+- ✅ Zukunfts-Strategie geklärt
+
+**Key Discoveries:**
+- **Aquise:** Agenturen (Ambers, HAYS, G2) — strukturiert & zuverlässig
+- **Projekte:** 12-24 Monate, ab 20 Mio €, Großteams
+- **Einkommen:** 9.000€/Monat ±1.000€ (sehr stabil; ±11% nur)
+- **Steuern:** ~12% Einkommenssteuer (Freiberufler-Privileg, kein Gewerbesteuer!)
+- **Rücklagen:** 15-20k€ (4-5 Monate Puffer; jetzt verfügbar für Fix & Flip)
+- **Decision:** Ingenieurbüro bleibt IMMER eigenständig (steuerlich optimal)
+- **Timeline:** 10 Jahre Bauleitung + Transition zu Projektentwickler
+- **Parallelbetrieb:** E-Commerce + Fix & Flip + IBA (alle unter Holding)
+
+---
+
+## ✅ SESSION 2 COMPLETE — Michaela Markner Interview
+
+**Completed Session:**
+[[wiki/sessions/Session-2-2026-08-14-Michaela-Interview.md|Session 2 — Michaela Interview]] ✅ COMPLETE
+
+**16 Fragen beantwortet & dokumentiert:**
+- ✅ Sektion 1: Persönliches (4 Fragen)
+- ✅ Sektion 2: Fix & Flip Kapital (6 Fragen)
+- ✅ Sektion 3: Holding & Strategie (3 Fragen)
+- ✅ Sektion 4: Gelavije & Familie (3 Fragen)
+
+**Session 2 Ergebnisse:**
+- ✅ 16 Interview-Fragen durchgearbeitet
+- ✅ Entity [[wiki/entities/Michaela Markner.md]] vollständig gefüllt
+- ✅ Fix & Flip Geschäftsmodell geklärt (Dienstleistungsvertrag + Provisionsmodell)
+- ✅ Holding-Partnerschaft & Strategie dokumentiert
+
+**Key Discovery:**
+- Dienstleistungsvertrag mit Provisionsanteil (abhängig von Gewinnmarge)
+- Michaela trägt kein Kapital-Risiko; Mark trägt Verluste
+- Ab 2-3 Flips: GbR-Gründung erforderlich
+- Thesaurierungs-Strategie (Gewinne reinvestieren)
+- Generationen-fokus: Kinder erben Holding (nicht Geld), evtl. über Stiftung
+
+---
+
+## ✅ SESSION 2026-08-17 COMPLETE — Sparkasse Termin & Phase 3 Umstrukturierung
+
+**Session Status:** ✅ **COMPLETED**  
+**Session Summary:** [[wiki/sessions/Session-2026-08-17-Abschluss.md|Session 2026-08-17 — Abschluss]]
+
+---
+
+## 🔴 SPARKASSE TERMIN RESULTS (2026-08-17)
+
+**Meeting mit Hr. Ullrich (Sparkasse Berlin):** ✅ COMPLETED
+
+**Key Results:**
+- ✅ Bank signalisiert Partnerschaft-Interesse (Hr. Ullrich bis 2,5 Mio€ Entscheidung!)
+- ✅ Finanzierungs-Modell geklärt: "Anlageprojekt" (nicht Bauträger)
+- ⚠️ **KRITISCHE BLOCKADE:** EK-Lücke 40-50k€ (muss gefüllt werden!)
+- ⏳ GmbH-Gründung: Zu prüfen (steuerlich + Kreditgesetz)
+- ✅ **Kreditkonditionen FESTGELEGT:**
+  - **4,5% Zinsen**
+  - **1,5% Tilgung**
+  - **5 Jahre Laufzeit**
+  - **200-250k€ Betrag**
+  - **5.000€ Vorfälligkeitsentschädigung**
+  - **Immobiliendarlehen für Anlageimmobilien**
+- ✅ Bausparvertrag: Kann als EK angesetzt werden (Michaela 50k€)
+
+**Banking-Strategie (Mehrgleisigkeit):**
+- 🏦 **Sparkasse Berlin** (Hr. Ullrich — primär)
+- 🏦 **Volksbank** (flächendeckend, zu kontaktieren)
+- 🏦 **Sparkasse Brandenburg** (regionale Expansion)
+
+**Nächste Schritte (Angepasst):**
+1. **Phase 0:** Eigenkapital-Stärkung (E-Commerce ASAP!) 🔴 BLOCKADE
+2. **Phase 1:** GmbH-Entscheidung (bis 2026-08-24) 🔴 HIGH
+3. **Phase 2:** Kreditlinien ✅ FESTGELEGT (Zusätzliche Banken parallel) 🟠 MEDIUM
+4. **Phase 3:** 🚀 **IMMOBILIEN-AKQUISE STARTET JETZT!** (nicht Businessplan!)
+   - 3a. Objekt-Akquise (SOFORT!) 🔴 CRITICAL
+   - 3b. Bank-Objektprüfung (nach Akquise)
+   - 3c. Kreditvertrag finalisieren
+   - 3d. Renovierung & Vermietung
+
+**TODO-Liste:** [[wiki/meta/Sparkasse-TODO-2026-08-17.md|Sparkasse Termin — Nächste Schritte & TODO]]
+
+---
+
+## 🎯 ACTION ITEMS — MASTER-LISTE
+
+**ZENTRALE TODO-LISTE:** [[wiki/meta/Master-Action-Items-2026.md|Master Action Items 2026]]
+
+> **Regel:** EINE zentrale Liste, nicht mehrere! Diese wird nach jeder Session aktualisiert.
+
+**Aktueller Status:**
+- 🔴 3 Blocking Tasks (Steuerberater, Jurist, Flip-Verträge) — ⏳ PENDING
+- 🔴 2 Phase 0 Tasks (E-Commerce, Sparquote) — 🔴 STARTING / ✅ RUNNING
+- 🔴 2 Phase 1 Tasks (GmbH, Bausparvertrag) — ⏳ PENDING
+- 🟠 2 Phase 2 Tasks (Sparkasse ✅, Zusatz-Banken) — 1 DONE / 1 PENDING
+- 🔴 1 Phase 3a Task (Immobilien-Akquise) — 🔴 STARTING
+
+**Kritischer Pfad:** Task 1 + 2 → Task 1a → Task 0a + 3a PARALLEL
+
+---
+
+## 🔴 UNMITTELBARE NÄCHSTE SCHRITTE (BLOCKING TASKS) — VERALTET
+
+**3 kritische Tasks vor Session 2a/3:**
+
+### 1. 🏛️ Steuerberater Gasenzer — Dienstleistungsvertrag validieren
+- **Priorität:** 🔴 FIRST
+- **Task:** Fix & Flip Vertrags-Modell steuerlich validieren
+- **Fällig bis:** 2026-08-16
+- **Status:** ⏳ Pending
+
+### 2. ⚖️ Jurist kontaktieren — GbR-Gründungs-Planung
+- **Priorität:** 🔴 SECOND
+- **Task:** Ab 2-3 Flips erforderlich; Gesellschaftervertrag-Template
+- **Fällig bis:** 2026-08-17
+- **Status:** ⏳ Pending
+
+### 3. 📄 Erste Flip-Verträge ausarbeiten (Template)
+- **Priorität:** 🔴 THIRD
+- **Task:** Vertrags-Template basierend auf Steuerberater-Input
+- **Fällig bis:** 2026-08-21
+- **Status:** ⏳ Pending (abhängig von Task 1)
+
+**Vollständige TODO-Liste:** [[wiki/meta/Session-2-TODO.md|Session 2 — TODO Nächste Schritte]]
+
+---
+
+## 🚀 Folgende Sessions (3-7)
+
+**Nach Session 2:**
+1. **Session 2a** — Ingenieurbüro Markner Interview (16 Fragen)
    - Geschäftsmodell dokumentieren
    - Finanzielle Performance klären (9.000€/Monat)
    - Zukunftsperspektive definieren
-   - Rolle in Holding-Struktur
 
-3. **Session 3** — Fix & Flip Detail-Session
+2. **Session 3** — Fix & Flip Detail-Session
    - Agent 1 (Immobilienanalyse) live testen
    - Konkrete Immobilien-Kandidaten analysieren
+
+3. **Session 4** — E-Commerce & Firmenkauf
+   - Agent 2 (Unternehmensanalyse) live testen
+   - Kandidaten recherchieren
 
 ---
 

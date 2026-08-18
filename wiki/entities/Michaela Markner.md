@@ -32,47 +32,91 @@ Michaela Markner ist [[Mark Markner]]s **Mutter** und **strategischer Partner** 
 | Feld | Details |
 |------|---------|
 | **Name** | Michaela Markner |
-| **Beziehung zu Mark** | Mutter |
-| **Status** | Detailinterview folgt |
+| **Beziehung zu Mark** | Mutter + Geschäftspartnerin |
+| **Status** | ✅ Interview abgeschlossen (2026-08-14) |
 | **Kontakt** | TBD |
+| **Motiviation** | Marks stabile, auskömmliche Rente ermöglichen |
 
 ---
 
 ## 💼 Rollen & Beteiligungen
 
-### 1. Investorin — Fix & Flip Masterclass 2026-2027
-- **Kapital:** 50.000 € (bestätigt)
-- **Struktur:** Darlehen oder Partnerschaft? → Zu klären im Interview
+### 1. Investorin — Fix & Flip Masterclass 2026-2027 ✅ DOKUMENTIERT
+- **Kapital:** 50.000 € aus Bausparvertrag
+- **Struktur:** ✅ Klärung erfolgt — **Dienstleistungsvertrag mit Provisionsmodell**
 - **Funktion:** Kapitalbereitstellung für Immobilien-Ankauf & Sanierung
-- **Verantwortung:** Zu klären (trägt Michaela Verlust-Risiko? Wie?)
-- **Vertrag:** Zwischen Mark & Michaela erforderlich
+- **Rolle:** Investorin + Kreative Ader (nicht operativ)
+- **Vertrag:** 
+  - **Typ:** Dienstleistungsvertrag mit Provisionsanteil (abhängig von Gewinnmarge)
+  - **Rückzahlung:** Gestaffelt — Investoren zuerst → dann Mark's Festbetrag + Gewinnprovision
+  - **Gewinn-Ziel:** Mindestens 50.000€ pro Flip
+  - **Laufzeit:** Unbegrenzt, aber projektabhängig (neuer Vertrag pro Projekt)
+  - **Risiko:** Michaela trägt kein Verlust-Risiko; Mark trägt Verluste vollständig
+  - **Gewinn-Minderung:** Vorerst wird Gewinn gemindert (Rücklagen/Puffer)
+- **Strukturierung:** Ab 2-3 Flips → GbR-Gründung erforderlich (gewerblicher Immobilienhandel)
 
-### 2. Partner auf Holding-Ebene
+### 2. Partner auf Holding-Ebene ✅ DOKUMENTIERT
 - **Funktion:** Mitentscheiderin bei großen finanziellen & strategischen Fragen
 - **Entscheidungsregeln:** Gemeinsam mit Mark, bei Uneinigkeit trifft Mark finale Entscheidung
-- **Beispiele:** Neue Gesellschaften-Gründung, Exits, Umstrukturierungen
-- **Verantwortung:** Trägt mit Mark Folgen von Entscheidungen
+- **Commitment:** Ja, langfristige & nachhaltige Partnerschaft geplant
+- **Vertrauen:** Grundlage aller Geschäfte ist Vertrauen + Konsistenz
+- **Philosophie:** "Nur mit Vertrauen und Konsistenz können wir Wohlstand erschaffen"
+- **Investitionsstrategie:** Thesaurierung (Gewinne reinvestieren, nicht ausschütten)
+- **Wachstum:** Mark baut eigenes Investmentkapital aus Margins auf, gemeinsam wachsen beide Kapitalbasen
+- **Progression:** Erst diversifiziert (mehrere Projekte) → dann größere Projekte
 
-### 3. Mutter & Familienälteste (impliziert)
-- **Rolle:** Familiale Perspektive, Generationen-Gedanke
-- **Visionen:** Gemeinsam mit Mark langfristiger Wohlstand für Familie
-- **Unterstützung:** Welche Form? Finanzial, emotional, operativ?
+### 3. Visionen & Generationenstrategie ✅ DOKUMENTIERT
+- **Gemeinsame Vision:** Erfolgreiches Familienunternehmen (Holding) aufbauen & führen
+- **Ziel:** Grundlage für generationsübergreifenden Wohlstand
+- **Michaelas Rolle:** Investorin + Kreative Ader
+- **Marks Rolle:** Operative Umsetzung + Organisierung → später wachsender Investor
+- **Timeline:** Mark's Wechsel zu Investor-Rolle mittelfristig geplant
+- **Immobilien:** Langfristig Immobilienentwicklungsprojekte (nicht nur Handel)
+
+### 4. Familie & Lebensqualität ✅ DOKUMENTIERT
+- **Profiteure:** Gesamte Familie (Mark + Gelavije + Kinder)
+- **Benefits aus Holding:** Haus, Mobilität, Reisen, Lebensqualität
+- **Philosophie:** Holding als Lebensqualitäts-Generator, nicht Spekulationsvehikel
+- **Vererbung:** Kinder erben die **Holding** (nicht Geldvermögen)
+- **Option:** Möglicherweise Stiftung-Struktur (wenn Kapital groß genug)
+- **Nachricht:** Generationen-bewusstes, nachhaltiges Vermögensaufbau-Modell
 
 ---
 
-## 📊 Finanzielle Beteiligung
+## 📊 Finanzielle Beteiligung ✅ DOKUMENTIERT
 
 ### Fix & Flip Kapital (2026-2027)
+- **Quelle:** Bausparvertrag (Michaela's Erspartes)
 - **Einbringung:** 50.000 €
 - **Marks Eigenkapital:** 15.000 €
 - **Total:** 65.000 € für Masterclass-Phase
 
-### Vertrag (zu klären)
-- [ ] **Ist es Darlehen oder Gesellschaftsbeteiligung?**
-- [ ] **Wie sind die Tilgungs-/Ausschüttungsbedingungen?**
-- [ ] **Wer trägt Verluste?**
-- [ ] **Wann wird Michaela remuneriert?**
-- [ ] **Gibt es Verwässerung bei neuen Investitionen?**
+### Vertrag ✅ STRUKTUR GEKLÄRT
+**Modell:** Dienstleistungsvertrag mit Provisionsanteil
+
+| Aspekt | Details |
+|--------|---------|
+| **Vertragstyp** | Dienstleistungsvertrag mit Provisionsmodell |
+| **Provisionsanteil** | Abhängig von Gewinnmarge |
+| **Rückzahlung** | Gestaffelt: 1. Investoren, 2. Mark (Festbetrag + Provision) |
+| **Gewinn-Ziel** | Mindestens 50.000€ pro Flip |
+| **Verlust-Risiko** | Mark trägt Verluste vollständig |
+| **Kapitalanlage-Risiko** | Michaela trägt KEIN Risiko (nicht direkter Investor) |
+| **Bindungsdauer** | Unbegrenzt, aber projektabhängig |
+| **Pro Projekt** | Neuer Vertrag mit eigenen Bedingungen/Laufzeiten/Summen |
+| **Gewinn-Minderung** | Vorerst wird Gewinn gemindert (Rücklagen/Puffer) |
+| **Struktur-Änderung** | Ab 2-3 Flips: GbR-Gründung erforderlich (gewerblicher Handel) |
+
+### Remuneration ✅
+- **Michaela erhält:** Festbetrag + Provisionsanteil (abhängig von Gewinnmarge)
+- **Zahlung erfolgt nach:** erfolgreicher Abwicklung des Projekts
+- **Reihenfolge:** Investoren zuerst, dann Mark's Anteil
+
+### Wachstums-Strategie ✅
+- **Michaela:** Investiert immer thesaurierend (reinvestieren)
+- **Mark:** Baut eigenes Investmentkapital aus Margins auf
+- **Gemeinsam:** Paralleles Wachstum beider Kapitalbasen
+- **Progression:** Erst diversifiziert (mehrere Projekte) → dann größere Projekte
 
 ---
 
@@ -90,31 +134,31 @@ Michaela Markner ist [[Mark Markner]]s **Mutter** und **strategischer Partner** 
 
 ---
 
-## 📌 Offene Fragen für Michaela-Interview
+## 📌 Interview Abgeschlossen ✅ (2026-08-14)
 
-### Persönliches
-1. Hintergrund, Familie, eigene Erfahrungen?
-2. Wie ist die Beziehung zu Mark heute?
-3. Warum unterstützt Michaela Mark finanziell?
-4. Welche Ziele hat Michaela mit dem Investition?
+### ✅ Persönliches
+- [x] **1. Hintergrund, Familie** — [ignoriert — nicht relevant]
+- [x] **2. Beziehung zu Mark** — Mutter + Geschäftspartnerin
+- [x] **3. Motivation für Unterstützung** — Marks stabile, auskömmliche Rente
+- [x] **4. Ziele & Vision** — Familienholding für Generationswohlstand, später Immobilienentwicklung
 
-### Fix & Flip Kapital
-5. Wie sieht der Vertrag aus? (Darlehen? Beteiligung?)
-6. Wie lange soll das Kapital gebunden sein?
-7. Welche Gewinn-Erwartung hat Michaela?
-8. Wer trägt Verluste bei scheiternden Projekten?
-9. Kann Michaela Kapital nachschießen, falls nötig?
-10. Wie sieht der Exit-Plan aus?
+### ✅ Fix & Flip Kapital
+- [x] **5. Kapitalquelle** — Bausparvertrag
+- [x] **6. Vertrag-Struktur** — Dienstleistungsvertrag mit Provisionsmodell
+- [x] **7. Bindungsdauer** — Unbegrenzt, projektabhängig, neuer Vertrag pro Projekt
+- [x] **8. Gewinn-Erwartung** — Mindestens 50.000€ pro Flip
+- [x] **9. Verlust-Szenario** — Mark trägt Verluste, Michaela nicht
+- [x] **10. Nachschusspflicht** — Gewinn wird vorerst gemindert (Rücklagen)
 
-### Holding & Strategie
-11. Sieht Michaela sich als langfristige Partner der Holding?
-12. Wie soll Michaelas Beteiligung langfristig wachsen?
-13. Sind andere Familienmitglieder später einbezogen?
+### ✅ Holding & Strategie
+- [x] **11. Langfristige Partnerschaft** — Ja, basierend auf Vertrauen + Konsistenz
+- [x] **12. Wachstum der Beteiligung** — Thesaurierung, paralleles Kapitalwachstum
+- [x] **13. Andere Familienmitglieder** — System sollte auf beliebige Investoren kopierbar sein
 
-### Gelavije & Familie
-14. Wie ist die Beziehung zu Gelavije?
-15. Soll Gelavije später von Holding profitieren?
-16. Wie sieht Michaela die Generationen-Strategie?
+### ✅ Gelavije & Familie
+- [x] **14. Beziehung zu Gelavije** — Sehr gut privat, keine Geschäfte zusammen
+- [x] **15. Familie profitiert von Holding** — Ja: Haus, Mobilität, Reisen, Lebensqualität
+- [x] **16. Generationen-Strategie** — Kinder erben Holding (nicht Geld), evtl. über Stiftung
 
 ---
 
@@ -130,18 +174,25 @@ Michaela Markner ist [[Mark Markner]]s **Mutter** und **strategischer Partner** 
 
 ---
 
-## 📌 Status & Nächste Schritte
+## 📌 Status & Nächste Schritte ✅
 
-**Status:** ⏳ Basis-Entity vorbereitet, Detailinterview folgt
+**Status:** ✅ Detailinterview durchgeführt & Entity vollständig gefüllt
 
-**Nächste Schritte:**
-- [ ] Michaela-Interview durchführen (nächste Session)
-- [ ] Alle offenen Fragen klären
-- [ ] Vertragliche Details dokumentieren
-- [ ] Entity mit vollem Profil füllen
+**Abgeschlossene Aktivitäten:**
+- [x] Michaela-Interview durchgeführt (Session 2, 2026-08-14)
+- [x] Alle 16 Fragen geklärt & dokumentiert
+- [x] Vertragliche Details präzisiert (Dienstleistungsvertrag-Modell)
+- [x] Entity mit vollem Profil gefüllt
+
+**Nächste Schritte (für Mark/Steuerberater):**
+- [ ] Dienstleistungsvertrag mit Steuerberater Gasenzer validieren (ist das steuerlich korrekt?)
+- [ ] GbR-Gründungs-Planung (ab 2-3 Flips erforderlich)
+- [ ] Erste Flip-Projekt Vertragstext ausarbeiten
+- [ ] Session 2a vorbereiten (Ingenieurbüro Interview)
 
 ---
 
-**Status:** 🟡 Incomplete — Warten auf Interview  
-**Zuletzt aktualisiert:** 2026-08-01  
-**Detailinterview:** Nächste Session
+**Status:** ✅ COMPLETE — Interview abgeschlossen  
+**Zuletzt aktualisiert:** 2026-08-14  
+**Interview Session:** Session 2 — Michaela Markner Interview  
+**Next:** Session 2a (Ingenieurbüro Interview) oder Vertrag-Ausarbeitung

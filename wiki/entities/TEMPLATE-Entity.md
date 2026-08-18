@@ -78,12 +78,12 @@ Description of important event or milestone.
 
 ---
 
-## Notes for Next Session
+## Notizen für nächste Session
 
-- [ ] Verify and expand key facts
-- [ ] Add more relationships
-- [ ] Link to additional sources
-- [ ] Review status and update if needed
+- [ ] Wichtige Fakten überprüfen und erweitern
+- [ ] Weitere Beziehungen hinzufügen
+- [ ] Links zu zusätzlichen Quellen hinzufügen
+- [ ] Status überprüfen und aktualisieren wenn nötig
 
 ---
 

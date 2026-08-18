@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: vg3mv-tneif
+created: 2026-08-03T11:58:52+02:00

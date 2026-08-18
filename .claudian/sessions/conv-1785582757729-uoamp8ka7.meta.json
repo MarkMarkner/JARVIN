@@ -1,11 +1,10 @@
 {
   "id": "conv-1785582757729-uoamp8ka7",
   "providerId": "claude",
-  "title": "Create wiki markdown",
+  "title": "Anpassungen",
   "titleGenerationStatus": "success",
   "createdAt": 1785582757733,
-  "updatedAt": 1785582874814,
-  "lastResponseAt": 1785582772262,
+  "lastActivityAt": 1787052671306,
   "sessionId": "af035a38-656b-4544-a8e7-c058bc00da2f",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +12,11 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 8,
-    "cacheCreationInputTokens": 4931,
-    "cacheReadInputTokens": 12498,
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 143958,
+    "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextWindowIsAuthoritative": true,
-    "contextTokens": 17437,
-    "percentage": 9
+    "contextTokens": 143968,
+    "percentage": 72
   }
 }

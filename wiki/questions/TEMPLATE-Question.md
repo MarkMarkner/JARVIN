@@ -114,12 +114,12 @@ If this question is still open, what would help resolve it?
 
 ---
 
-## Notes for Next Session
+## Notizen für nächste Session
 
-- [ ] Review confidence level
-- [ ] Add new sources if found
-- [ ] Resolve contradictions if possible
-- [ ] Update status (answered/contested/etc)
+- [ ] Vertrauensstufe überprüfen
+- [ ] Neue Quellen hinzufügen wenn gefunden
+- [ ] Widersprüche lösen wenn möglich
+- [ ] Status aktualisieren (beantwortet/umstritten/etc)
 
 ---
 
