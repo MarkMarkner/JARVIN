@@ -77,9 +77,20 @@ Uninterrupted work: 8+ hours (all day!)
 - 🟢 Git Backup: **ACTIVE**
 - 🟢 User Interruptions: **ELIMINATED**
 
-**Next Phases (Sept-Oct):**
-- Phase 4: Automated Archive Compression (30+ day old sessions)
-- Phase 5: Full Lifecycle Automation (analytics dashboard)
+**Nächste Phasen (Sept-Okt):**
+- Phase 4: Automatisierte Archiv-Komprimierung (30+ Tage alte Sitzungen)
+- Phase 5: Volle Lifecycle-Automatisierung (Analytics-Dashboard)
+
+**Warum Phase 4-5 später?**
+- Phase 1-3 müssen erst echte Daten sammeln (2-4 Wochen)
+- Archive-Komprimierung braucht Sessions > 30 Tage alt
+- Dashboard braucht echte Context-Tracking-Daten zum Anzeigen
+- Detaillierte Analyse: `.claude/phase-4-5-analyse.md`
+
+**Deine Entscheidung:**
+- Option 1 (empfohlen): Warten bis September (optimal)
+- Option 2: Hybrid - Jetzt Design, September Implementation
+- Option 3: Alles jetzt finalisieren (viel Arbeit, fragliche Qualität)
 
 ---
 
