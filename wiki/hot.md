@@ -21,6 +21,36 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ---
 
+## ☀️ EINSTIEG FÜR HEUTE (Stand: 2026-08-18, Abend)
+
+**Vault-Status:** ✅ sauber (Lint Exit 0)  
+**Letzte Session:** [[wiki/sessions/Session-2026-08-18-Governance-und-Wartung.md|Governance & Wartung]]
+
+### Was als Nächstes ansteht
+
+| Priorität | Task | Deadline |
+|-----------|------|----------|
+| 🔴 **1** | **IBA Phase 1** — Kontaktliste Top-50 Kommunen | **24.08.** (knapp!) |
+| 🟠 2 | **Task 0c** — Gespräch Günay Cakir (Volumen klären) | 31.08. |
+| 🟠 3 | **Task 1a** — GmbH-Gründung mit Gasenzer | 31.08. |
+| 🟡 4 | **Task 2b** — Volksbank + Sparkasse Brandenburg | 31.08. |
+
+### Bevor du startest
+
+```bash
+bash .claude/scripts/vault-lint.sh
+```
+(Regel 04 — dauert 15 Sekunden)
+
+### Noch bei dir liegende Entscheidungen
+
+- **Befund A** — 4 Projekte über Regel-03-Richtwert → Empfehlung: Bestandsschutz
+- **Befund B** — identische Dateinamen entities/ vs projects/ → Empfehlung: belassen
+- **DEC-2026-002** — Sparkasse Berlin als Hauptbank?
+- **Sparkasse** — schriftliche Konditionsbestätigung fehlt (aktuell nur mündlich)
+
+---
+
 ## 🎯 Aktuelle Zwecke
 
 **JARVEN** ist live und bereit als **Gedächtnis für Mark OS**.

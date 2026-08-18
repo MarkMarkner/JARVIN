@@ -36,9 +36,17 @@ address: session-index-001
 
 ## 📑 Alle Sitzungen (Neueste zuerst)
 
-### **Session-2026-08-18: Governance & IBA-Kommunen-Akquisition**
-**Schlüsselwörter:** #governance #regeln #iba-kommunen #workflow-struktur #website-launch  
-**Zusammenfassung:** IBA-Website online gegangen. Neues Projekt Kommunen-Akquisition (400 Kommunen, Phase 0.2) mit 3-Ebenen-Struktur erstellt. Drei bindende Governance-Regeln dokumentiert und in `.claude/governance/` strukturiert (Sprachrichtlinie, Workflow-Organisation, Projekt-Workflow-Action).  
+### **Session-2026-08-18 (Teil 2): Governance, Vollwartung & neue Entities**
+**Schlüsselwörter:** #governance #wartung #vault-lint #sparkasse #investor #iba-kommunen  
+**Zusammenfassung:** Vier bindende Governance-Regeln in `.claude/governance/` strukturiert. Vollwartung mit 30 behobenen Fehlern, Prüf-Script `vault-lint.sh` gebaut. Zwei Entities: Sparkasse Berlin (Konditionen als „mündlich" markiert — keine schriftliche Zusage) und Günay Cakir (Investor, zweiter Weg zur EK-Lücke). Projekt IBA-Kommunen-Akquisition erstellt.  
+**Status:** ✅ Abgeschlossen  
+**Datei:** `[[wiki/sessions/Session-2026-08-18-Governance-und-Wartung.md]]`
+
+---
+
+### **Session-2026-08-18 (Teil 1): IBA-Website & Kommunen-Projekt**
+**Schlüsselwörter:** #iba #website-launch #kommunen #workflow-struktur  
+**Zusammenfassung:** IBA-Website www.initiative-bau-archiv.de online gegangen. Projekt Kommunen-Akquisition (400 Kommunen, Phase 0.2) nach 3-Ebenen-Modell erstellt. Workflows nach `wiki/workflows/` dezentralisiert.  
 **Status:** ✅ Abgeschlossen  
 **Datei:** `[[wiki/sessions/Session-2026-08-18-Final-Briefing.md]]`
 
@@ -136,8 +144,8 @@ address: session-index-001
 
 | Metrik | Wert |
 |--------|------|
-| Gesamte Sitzungen | 13 |
-| Sitzungen Abgeschlossen | 13 |
+| Gesamte Sitzungen | 14 |
+| Sitzungen Abgeschlossen | 14 |
 | Index-Größe | ~2-3 KB (vs. ~172 KB volle Sitzungen) |
 | Context-Ersparnis | 98% |
 | Durchschnittliche Zusammenfassungszeilen | 2-3 |
