@@ -457,6 +457,42 @@ Nach Phase A + Workflow-Erstellung: Ausgewählte Immobilie verhandeln + unter Ve
 
 ---
 
+---
+
+## 🎯 IBA-KOMMUNEN-AKQUISITION — 5 EINFACHE ACTIONS FÜR MARK
+
+**Projekt:** [[wiki/projects/IBA-Kommunen-Akquisition.md|IBA Kommunen-Akquisition]]  
+**Workflow:** [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Detaillierter Workflow]]  
+**Status:** 🟢 **JETZT STARTEN**  
+**Kritikalität:** 🔴 **BLOCKIERT FÖRDER-BEWILLIGUNG!**
+
+**Einfache Übersicht (zum Fortfahren wenn Mark an IBA arbeitet):**
+
+- [ ] **Phase 1: Kontaktliste aufbauen**  
+  Deadline: 2026-08-24  
+  Siehe Workflow für Details
+
+- [ ] **Phase 2: Kontakte recherchieren**  
+  Deadline: 2026-09-07  
+  Siehe Workflow für Details
+
+- [ ] **Phase 3: Email-Kampagne & Follow-ups**  
+  Deadline: 2026-10-15  
+  Siehe Workflow für Details
+
+- [ ] **Phase 4: Pitch-Meetings & Verträge**  
+  Deadline: 2026-10-31  
+  Siehe Workflow für Details
+
+- [ ] **Phase 5: Pilotphase validieren**  
+  Deadline: 2026-12-31  
+  Siehe Workflow für Details
+
+**Zur Ausführung:**  
+Alle Details, Checklisten, Templates & Ressourcen sind im [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Workflow]] dokumentiert. Dieses Master-Item ist nur die High-Level Übersicht zum Fortfahren.
+
+---
+
 ## 📌 Nächste Update-Punkte
 
 Diese Liste wird aktualisiert bei:

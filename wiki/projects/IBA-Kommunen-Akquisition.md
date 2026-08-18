@@ -46,202 +46,38 @@ Systematische, bundesweite Kontaktierungskampagne aller deutschen Kommunen zur A
 
 ---
 
-## 🎯 PROJEKT-ZIELE
+## 🎯 KRITISCHE MEILENSTEINE
 
-### Primary Goals
+| Meilenstein | Deadline | Status | Kritikalität |
+|-------------|----------|--------|--------------|
+| **Kontaktliste Top-50** | 2026-08-24 | 🟡 DIESE WOCHE | 🔴 BLOCKADE 1 |
+| **Kontakte recherchiert** | 2026-09-07 | ⏳ NÄCHSTE WOCHE | 🟠 BLOCKADE 2 |
+| **Termine vereinbart** | 2026-09-15 | ⏳ FOLGENDE WOCHE | 🔴 BLOCKADE 3 |
+| **Pilot-Verträge** | 2026-10-31 | ⏳ OCT | 🔴 DEAL-BREAKER |
+| **Proof-of-Concept** | 2026-12-31 | ⏳ DEKO | 🔴 FÖRDERUNG! |
 
-| Ziel | Target | Deadline | Status |
-|------|--------|----------|--------|
-| **Kontaktliste aufbauen** | Alle 400 Kommunen | 2026-08-24 | 🟡 IN PROGRESS |
-| **Erste Email-Welle** | 100+ Emails gesendet | 2026-09-01 | ⏳ READY |
-| **Positive Responses** | 20-30 Interessenten | 2026-09-15 | ⏳ PLANNED |
-| **Termine vereinbaren** | 20+ Pitch-Meetings | 2026-09-30 | ⏳ PLANNED |
-| **Pilot-Verträge** | 10-20 Verträge unterzeichnet | 2026-12-31 | 🎯 CRITICAL |
-| **Pilotphase starten** | 50TB aktive Daten | 2026-12-31 | 🎯 CRITICAL |
-
-### Success Metrics
+## 📊 SUCCESS METRICS
 
 ```
-AKTUELLE KENNZAHLEN:
-- Kontakte recherchiert: 0/400 (0%)
-- Emails gesendet: 0/400 (0%)
-- Positive Responses: 0
-- Pilot-Kommunen aktiv: 0/20
-
 ZIELZAHLEN (31.12.2026):
-- Kontakte recherchiert: 400/400 (100%)
-- Emails gesendet: 400/400 (100%)
-- Positive Responses: 20-40 (5-10%)
 - Pilot-Kommunen aktiv: 10-20 ← MUSS ERREICHT WERDEN
+- Datenmenge: 50TB ← FÖRDERUNG ABHÄNGIG
+- Nutzer: 200 ← PROOF-OF-CONCEPT
 ```
 
 ---
 
-## 🔄 PROJEKT-PHASEN
+## 🔄 PROJEKT-PHASEN (Überblick)
 
-### **PHASE 1: DATENBESCHAFFUNG & SEGMENTIERUNG (W33-W34)**
+**Detaillierte Aufgaben & Checklisten:**  
+→ Siehe [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Workflow Dokumentation]]
 
-**Status:** 🟢 STARTING NOW  
-**Timeline:** 18.Aug - 31.Aug (2 Wochen)  
-**Owner:** Mark + Vertriebsteam (Recherche)
-
-#### Aufgaben:
-
-- [ ] **1.1: Kontaktliste aufbauen**
-  - [ ] Alle 400 Kommunen zusammentragen (Gemeindeverzeichnis.de)
-  - [ ] Einwohnerzahl + Bundesland dokumentieren
-  - [ ] Datei speichern: `wiki/assets/iba-kommunen-vollstaendige-liste.csv`
-  - Verantwortlich: Vertriebsteam
-  - Aufwand: 4-6 Stunden
-  - Deadline: 2026-08-22
-
-- [ ] **1.2: Top 50 priorisieren**
-  - [ ] Scoring-Modell anwenden (Bevölkerung, Bauverwaltung-Activity, etc.)
-  - [ ] Top 50 "Hot Prospects" identifizieren
-  - [ ] Datei speichern: `wiki/assets/iba-kommunen-top-50-hot.csv`
-  - Verantwortlich: Mark + Vertriebsteam
-  - Aufwand: 2-3 Stunden
-  - Deadline: 2026-08-24
-
----
-
-### **PHASE 2: KONTAKT-RECHERCHE (W34-W35)**
-
-**Status:** ⏳ PLANNED  
-**Timeline:** 25.Aug - 7.Sept (2 Wochen)  
-**Owner:** Vertriebsteam (Recherche), Mark (Validation)
-
-#### Aufgaben:
-
-- [ ] **2.1: Kontakte recherchieren (Top-50 zuerst)**
-  - [ ] Pro Kommune: Mindestens 2 Kontakte (Bürgermeister + Bauleiter)
-  - [ ] Email + Telefon dokumentieren
-  - [ ] Methoden: Website + Google + LinkedIn + Telefonverzeichnis
-  - Verantwortlich: Vertriebsteam
-  - Aufwand: 10-15 min pro Kommune = 4-12 Stunden
-  - Deadline: 2026-09-07
-
-- [ ] **2.2: Datenbank finalisieren & validieren**
-  - [ ] Kontakte überprüfen (Email-Validierung optional)
-  - [ ] Doppelungen entfernen
-  - [ ] Finale Datei: `wiki/assets/iba-kommunen-kontaktdatenbank-top50.csv`
-  - Verantwortlich: Mark
-  - Aufwand: 1-2 Stunden
-  - Deadline: 2026-09-07
-
----
-
-### **PHASE 3: EMAIL-KAMPAGNE & OUTREACH (W35-W39)**
-
-**Status:** ⏳ PLANNED  
-**Timeline:** 1.Sept - 5.Okt (5 Wochen)  
-**Owner:** Vertriebsteam (Versand), Mark (Strategie & Termine)
-
-#### Aufgaben:
-
-- [ ] **3.1: Email-Kampagne Welle 1 (Top 50)**
-  - [ ] Email-Text finalisieren & personalisieren
-  - [ ] Mailchimp/HubSpot konfigurieren (optional)
-  - [ ] Erste 50 Emails versenden
-  - Verantwortlich: Vertriebsteam
-  - Aufwand: 3-4 Stunden + Versand
-  - Deadline: 2026-09-01
-
-- [ ] **3.2: Follow-up & Telefon-Kampagne (Top 50)**
-  - [ ] Nach 3-5 Tagen: Telefonische Nachverfolgung
-  - [ ] Positive Responses: Termin-Koordination
-  - [ ] Tracking in Live-Datenbank aktualisieren
-  - Verantwortlich: Vertriebsteam
-  - Aufwand: Laufend (täglich)
-  - Timeline: 2026-09-04 bis 2026-09-15
-
-- [ ] **3.3: Email-Kampagne Welle 2 (Alle 400)**
-  - [ ] Nach erfolgreichen Responses: Massive Welle an alle 400
-  - [ ] Gleicher Email-Text (leicht adaptiert pro Größe)
-  - [ ] Automatisierung über Email-Tool
-  - Verantwortlich: Vertriebsteam
-  - Aufwand: 2-3 Stunden + Versand
-  - Deadline: 2026-09-15
-
-- [ ] **3.4: Laufende Follow-ups (Alle 400)**
-  - [ ] Mehrfache Follow-up-Wellen (Woche 2-4 nach erstem Email)
-  - [ ] Telefonische Nachfassungen
-  - [ ] Termin-Koordination mit interessierten Kommunen
-  - Verantwortlich: Vertriebsteam + Mark
-  - Aufwand: Täglich, mehrere Stunden
-  - Timeline: 2026-09-15 bis 2026-10-15
-
----
-
-### **PHASE 4: PITCH-MEETINGS & VERTRÄGE (W36-W43)**
-
-**Status:** ⏳ PLANNED  
-**Timeline:** 8.Sept - 31.Okt (8 Wochen)  
-**Owner:** Mark (Pitches), Vertriebsteam (Vor/Nach-Arbeit)
-
-#### Aufgaben:
-
-- [ ] **4.1: Pitch-Meetings durchführen (Top 20)**
-  - [ ] 20-30 Min Video-Call/Telefon pro Kommune
-  - [ ] Demo-Zugang + Testinstanz anbieten
-  - [ ] Fragen beantworten & Bedenken adressieren
-  - Verantwortlich: Mark (Pitches), Vertriebsteam (Koordination)
-  - Aufwand: ~1.5 Stunden pro Gespräch = 30-45 Stunden
-  - Timeline: 2026-09-08 bis 2026-09-30 (intensiv)
-
-- [ ] **4.2: Verträge vorbereiten & unterzeichnen**
-  - [ ] Pilot-Verträge Template vorbereiten (mit Jurist!)
-  - [ ] Individuelle Verträge pro Kommune
-  - [ ] Unterschrift sammeln (digital oder Papier)
-  - Verantwortlich: Vertriebsteam + Jurist
-  - Aufwand: 1-2 Stunden pro Vertrag = 10-40 Stunden
-  - Timeline: 2026-09-15 bis 2026-10-31
-
-- [ ] **4.3: Onboarding-Planung**
-  - [ ] Pro unterzeichnetem Vertrag: Onboarding-Termin vereinbaren
-  - [ ] Testinstanzen bereitstellen
-  - [ ] Dokumentation + Training vorbereiten
-  - Verantwortlich: Vertriebsteam
-  - Aufwand: 2-4 Stunden pro Kommune
-  - Timeline: 2026-10-01 bis 2026-11-30
-
----
-
-### **PHASE 5: PILOTPHASE STARTEN (W44-W52)**
-
-**Status:** ⏳ PLANNED  
-**Timeline:** 1.Nov - 31.Dez (8 Wochen)  
-**Owner:** Externe Onboarding-Universität (Support), Mark (Oversight)
-
-#### Aufgaben:
-
-- [ ] **5.1: Onboarding durchführen**
-  - [ ] Datenmigration unterstützen (falls nötig)
-  - [ ] Schulungen durchführen
-  - [ ] Support-Prozess etablieren
-  - Verantwortlich: Externes Onboarding-Team
-  - Timeline: 2026-11-01 bis 2026-12-15
-
-- [ ] **5.2: Pilotphase monitoren & optimieren**
-  - [ ] Wöchentliche Check-ins mit Pilot-Kommunen
-  - [ ] Feedback sammeln & Bugs fixen
-  - [ ] Platform-Optimierungen durchführen
-  - Verantwortlich: Programmierer-Unternehmen
-  - Timeline: 2026-11-01 bis 2026-12-31
-
-- [ ] **5.3: Case Studies & Testimonials sammeln**
-  - [ ] Success-Stories dokumentieren
-  - [ ] Zitate/Fotos sammeln (mit Genehmigung)
-  - [ ] Marketing-Inhalte vorbereiten (für nächste Phase!)
-  - Verantwortlich: Vertriebsteam
-  - Timeline: 2026-11-15 bis 2026-12-31
-
-- [ ] **5.4: Proof-of-Concept validieren**
-  - [ ] 50TB erreicht? (Daten-Upload tracking)
-  - [ ] 200 Nutzer aktiv? (Usage-Statistiken)
-  - [ ] Für Förder-Bewilligung dokumentieren
-  - Verantwortlich: Mark + Programmierer
-  - Deadline: 2026-12-31
+**Phase-Timeline:**
+- **Phase 1 (W33-34):** Datenbeschaffung & Segmentierung (bis 2026-08-24)
+- **Phase 2 (W34-35):** Kontakt-Recherche (bis 2026-09-07)
+- **Phase 3 (W35-39):** Email-Kampagne & Outreach (bis 2026-10-15)
+- **Phase 4 (W36-43):** Pitch-Meetings & Verträge (bis 2026-10-31)
+- **Phase 5 (W44-52):** Pilotphase starten & validieren (bis 2026-12-31)
 
 ---
 
@@ -298,29 +134,15 @@ ZIELZAHLEN (31.12.2026):
 
 ---
 
-## 📅 ZEITPLAN & MEILENSTEINE (GANTT)
+## 📅 ZEITPLAN
 
 ```
-Aug 18 ──→ Aug 24: PHASE 1 (Datensammlung, Top 50 scoring)
-           ↓
-Aug 24 ──→ Sep 07: PHASE 2 (Kontakt-Recherche)
-           ↓
-Sep 01 ──→ Sep 15: PHASE 3 (Email-Welle 1 + 2, Telefonanrufe)
-           ↓
-Sep 15 ──→ Oct 31: PHASE 4 (Pitch-Meetings, Verträge, Onboarding)
-           ↓
-Nov 01 ──→ Dec 31: PHASE 5 (Pilotphase, Data-Collection)
-           ↓
-Dec 31 ──:  ZIEL ERREICHT: 50TB / 200 Nutzer / 10-20 Kommunen 🎯
+Aug 18 ──→ Aug 24: Phase 1 — Datenbeschaffung
+Aug 24 ──→ Sep 07: Phase 2 — Kontakt-Recherche
+Sep 01 ──→ Oct 15: Phase 3 — Email-Kampagne & Outreach
+Sep 15 ──→ Oct 31: Phase 4 — Pitch-Meetings & Verträge
+Nov 01 ──→ Dec 31: Phase 5 — Pilotphase
 ```
-
-**KRITISCHE MEILENSTEINE:**
-- 🟡 **2026-08-24:** Top-50 Kontaktliste ready (BLOCKADE-PUNKT 1)
-- 🟠 **2026-09-07:** Alle Kontakte recherchiert
-- 🟢 **2026-09-01:** Erste 100+ Emails gesendet
-- 🟡 **2026-09-15:** 20+ Termine vereinbart (BLOCKADE-PUNKT 2)
-- 🔴 **2026-10-31:** 10-20 Pilot-Verträge unterschrieben (BLOCKADE-PUNKT 3)
-- 🎯 **2026-12-31:** 50TB / 200 Nutzer AKTIV (FÖRDERUNG ABHÄNGIG!)
 
 ---
 
@@ -334,22 +156,14 @@ Siehe: [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Workflow Dokumentation]
 
 ---
 
-## 🎯 NÄCHSTE AKTIONEN (DIESE WOCHE)
+## 🎯 AUSFÜHRUNG
 
-**Für Mark:**
-1. [ ] Review Workflow Dokumentation (`.claude/iba-kommunen-kontakt-workflow.md`)
-2. [ ] Vertriebsteam briefen (Ziele, Timeline, Erwartungen)
-3. [ ] Erste 20 Kommunen identifizieren (persönlich anrufen?)
+**Alle Schritte & Details:**  
+→ Siehe [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Workflow]]  
+→ Siehe [[wiki/meta/Master-Action-Items-2026.md|Master-Action-Items]]
 
-**Für Vertriebsteam:**
-1. [ ] Datensammlung starten (Gemeindeverzeichnis.de)
-2. [ ] Top 50 Scoring durchführen
-3. [ ] Kontakt-Recherche für Top 20 starten
-
-**Für Externe Partner:**
-1. [ ] Mailchimp/HubSpot Account eröffnen (optional)
-2. [ ] Email-Template-System vorbereiten
-3. [ ] Juristen beauftragen (Pilot-Verträge)
+**Aktueller Status:**  
+→ Phase 1 startet jetzt (2026-08-18)
 
 ---
 
