@@ -54,7 +54,7 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 - 🎯 2026-12-31: 50TB AKTIV ← FÖRDERUNG ABHÄNGIG
 
 **Dokumentation:**
-- [[.claude/iba-kommunen-kontakt-workflow.md|Detaillierter Workflow (4 Phasen)]]
+- [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Detaillierter Workflow (4 Phasen)]]
 - [[wiki/projects/IBA-Kommunen-Akquisition.md|Projekt-Management & Timeline]]
 - Templates: Email, Telefonskript, Tracking-System
 

@@ -326,7 +326,7 @@ Dec 31 ──:  ZIEL ERREICHT: 50TB / 200 Nutzer / 10-20 Kommunen 🎯
 
 ## 📋 KOMMUNIKATIONS-TEMPLATES
 
-Siehe: [[.claude/iba-kommunen-kontakt-workflow.md|Workflow Dokumentation]] für:
+Siehe: [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Workflow Dokumentation]] für:
 - Email-Vorlagen
 - Telefonskripte  
 - Angebots-Struktur
