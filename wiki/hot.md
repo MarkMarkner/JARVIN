@@ -37,11 +37,32 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 **Status:** Website www.initiative-bau-archiv.de ist ONLINE  
 **Funktion:** Endnutzer können sich informieren + Pilotpartner-Bewerbung aktiviert  
 **Bedeutung:** Kritischer Meilenstein für Endnutzer-Akquisition (Phase 0.2)  
-**Entity Updated:** [[wiki/entities/IBA-Initiative-Bau-Archiv.md|IBA Entity]] mit Website-Status  
-**Nächste Schritte:**
-- [ ] Pilotpartner-Bewerbungen tracken (starten ab heute?)
-- [ ] Marketing-Kampagne koordinieren
-- [ ] Top 50 Kommunen über Website informieren
+**Entity Updated:** [[wiki/entities/IBA-Initiative-Bau-Archiv.md|IBA Entity]] mit Website-Status
+
+### 🎯 **NEUES PROJEKT: Kommunen-Akquisition!**
+**Status:** 🟢 GERADE GESTARTET (18.Aug 2026)  
+**Umfang:** Systematische Kontaktierung aller 400 deutschen Kommunen  
+**Ziel:** 10-20 Pilot-Kommunen bis 31.12.2026 (= 50TB / 200 Nutzer!)  
+**Kritikalität:** 🔴 BLOCKIERT FÖRDER-BEWILLIGUNG!  
+**Timeline:** 4-Phase Workflow (Aug-Dez 2026)
+
+**Erste Meilensteine:**
+- 🟡 2026-08-24: Kontaktliste Top-50 vollständig
+- 🟠 2026-09-07: Alle Kontakte recherchiert
+- 🟢 2026-09-15: 20+ Termine vereinbart
+- 🔴 2026-10-31: 10-20 Pilot-Verträge
+- 🎯 2026-12-31: 50TB AKTIV ← FÖRDERUNG ABHÄNGIG
+
+**Dokumentation:**
+- [[.claude/iba-kommunen-kontakt-workflow.md|Detaillierter Workflow (4 Phasen)]]
+- [[wiki/projects/IBA-Kommunen-Akquisition.md|Projekt-Management & Timeline]]
+- Templates: Email, Telefonskript, Tracking-System
+
+**Nächste Aktionen:**
+- [ ] Datensammlung starten (Gemeindeverzeichnis.de)
+- [ ] Top 50 identifizieren & priorisieren
+- [ ] Kontakte recherchieren
+- [ ] Email-Kampagne vorbereiten
 
 ---
 
