@@ -156,6 +156,40 @@ bereits vollständige Pfade verwenden). Als Konvention in Regel 01 ergänzen.
 
 ---
 
+## 🔴 NACHTRAG: Die manuelle Wartung war unvollständig
+
+Nach Erstellung des Prüf-Scripts `.claude/scripts/vault-lint.sh` zeigte sich:
+
+**Die manuelle Prüfung hatte 19 weitere Befunde übersehen.**
+
+Ursache: Der Ad-hoc-Scan hatte `wiki/sessions/` und mehrere Entity-Dateien
+nicht im Scope. Gefunden wurden zusätzlich:
+
+| Datei | Defekte Links | Art |
+|-------|---------------|-----|
+| `wiki/entities/Mark Markner.md` | 6 | Alte Namensformate (`IBA - Initiative Bau Archiv GmbH` statt `IBA-Initiative-Bau-Archiv.md`) |
+| `wiki/entities/Markner Holding GmbH.md` | 5 | dito |
+| `wiki/entities/Michaela Markner.md` | 1 | dito |
+| `wiki/sessions/Session-2026-08-17-Abschluss.md` | 2 | Archivierte TODO-Listen |
+| `wiki/sessions/Session-1-2026-08-14-Abschluss.md` | 2 | Roadmap + Lint-Results |
+| `wiki/meta/JARVEN-Roadmap-Archive.md` | 2 | dito |
+| `wiki/sessions/Session-Meeting-...Sparkasse-Ullrich.md` | 1 | Entity existiert nicht |
+
+**Alle 19 behoben.** Verifiziert durch Script (Exit-Code 0).
+
+**Konsequenz:** Regel 04 (Wartungsroutine) schreibt vor, dass Prüfungen
+ausschließlich über das Script laufen — nie ad-hoc.
+
+### Offener Punkt: Fehlende Entity
+
+`Sparkasse Berlin` wurde verlinkt, existiert aber nicht als Entity.
+Der Link wurde zu Fließtext umgewandelt. Angesichts der Bedeutung
+(Kreditlinie 200–250k€, Hr. Ullrich als Entscheider bis 2,5 Mio€)
+wäre eine Entity sinnvoll — das ist aber eine inhaltliche Entscheidung,
+keine Wartungsaufgabe.
+
+---
+
 ## 🔧 EMPFOHLENE WARTUNGSROUTINE
 
 Damit diese Fehlerklassen nicht wieder auftreten:
@@ -185,7 +219,9 @@ Damit diese Fehlerklassen nicht wieder auftreten:
 
 ---
 
-**Status:** ✅ Wartung abgeschlossen  
-**Behobene Fehler:** 11 (6 Links + 3 Platzhalter + 1 Frontmatter + 1 Index)  
-**Offene Entscheidungen:** 2 (Befund A + B — brauchen Marks Entscheidung)  
-**Nächste Wartung:** empfohlen 2026-09-18 (monatlich)
+**Status:** ✅ Wartung abgeschlossen, verifiziert durch Script (Exit 0)  
+**Behobene Fehler:** 30 (25 Links + 3 Platzhalter + 1 Frontmatter + 1 Index)  
+**Offene Entscheidungen:** 3 (Befund A + B + Entity "Sparkasse Berlin")  
+**Neue Regel:** [[.claude/governance/04-wartungsroutine.md|Regel 04 — Wartungsroutine]]  
+**Neues Werkzeug:** `.claude/scripts/vault-lint.sh`  
+**Nächste Wartung:** täglich automatisch (Regel 04)

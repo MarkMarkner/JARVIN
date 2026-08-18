@@ -43,7 +43,7 @@ Ursprüngliche Liste aller ausstehenden Sessions, Entwicklungen und Agents für 
 | **2. Jurist** | 🔴 SECOND | 2026-08-17 | ⏳ | GbR-Gründung + Gesellschaftervertrag |
 | **3. Flip-Verträge** | 🔴 THIRD | 2026-08-21 | ⏳ | Template basierend auf Steuerberater-OK |
 
-**Vollständige TODO-Liste:** [[wiki/meta/Session-2-TODO.md|Session 2 — TODO & Nächste Schritte]]
+**Vollständige TODO-Liste:** [[wiki/meta/archive/SESSION-2-TODO-ARCHIVE.md|Session 2 — TODO & Nächste Schritte]]
 
 ---
 
@@ -127,7 +127,7 @@ Ursprüngliche Liste aller ausstehenden Sessions, Entwicklungen und Agents für 
 - [ ] Google-Drive IBA-Ordner durchgehen
 - [ ] Förderantrag verstehen
 - [ ] Website-Launch (30.09.2026) vorbereiten
-- [ ] Entity [[wiki/entities/IBA - Initiative Bau Archiv GmbH.md]] vollständig dokumentieren
+- [ ] Entity [[wiki/entities/IBA-Initiative-Bau-Archiv.md]] vollständig dokumentieren
 - [ ] KfW-Finanzierung klären
 
 **Abhängigkeiten:** Google-Drive Zugang erforderlich  

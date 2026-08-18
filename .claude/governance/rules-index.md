@@ -98,6 +98,31 @@ address: governance-index-001
 
 ---
 
+### **04. Wartungsroutine** — Tägliche Integritätsprüfung
+[[04-wartungsroutine.md|Zur vollständigen Regel →]]
+
+| Aspekt | Details |
+|--------|---------|
+| **Gültig ab** | 2026-08-18 |
+| **Status** | 🟢 Bindend |
+| **Anwendungsbereich** | Gesamter Vault |
+| **Kern-Regel** | Tägliche Prüfung über Script, nicht ad-hoc |
+| **Werkzeug** | `bash .claude/scripts/vault-lint.sh` |
+| **Frequenz** | Täglich einmal (bei Session-Start oder -Ende) |
+| **Dauer** | 10–20 Sekunden |
+
+**Prüft:** Defekte Links · Frontmatter · Orphans · Session-Index · Git-Hygiene · Projekt-Größen
+
+**Prävention (wichtigster Teil):** Bei jeder Umbenennung erst
+`grep -rn "alter-name"`, dann alle Referenzen aktualisieren, dann Lint,
+dann committen.
+
+**Wer sollte das lesen?**
+- Vor jedem Refactor
+- Bei Session-Start und -Ende
+
+---
+
 ## 📊 REGELMATRIX
 
 | Regel | Typ | Bindung | Anwendungsbereich | Häufigkeit |
@@ -105,6 +130,7 @@ address: governance-index-001
 | Sprachrichtlinie | Language | 🔴 Bindend | ALLE Dokumente | Always |
 | Workflow-Org | Organization | 🔴 Bindend | Projekt-Workflows | Neue Workflows |
 | Projekt-Workflow-Action | Process | 🔴 Bindend | Komplexe Projekte | Neue Projekte |
+| Wartungsroutine | Quality | 🔴 Bindend | Gesamter Vault | Täglich |
 
 ---
 
@@ -116,6 +142,8 @@ address: governance-index-001
 "Soll ich Deutsch oder English schreiben?"  → 01-sprachrichtlinie
 "Wo speichere ich den Workflow?"            → 02-workflow-organization-rule
 "Wie dokumentiere ich mein Projekt?"        → 03-project-workflow-action-rule
+"Ist der Vault noch sauber?"                → 04-wartungsroutine
+"Ich benenne eine Datei um — was beachten?" → 04-wartungsroutine (Prävention)
 "Alle Regeln auf einen Blick?"              → Du bist hier! (rules-index.md)
 ```
 

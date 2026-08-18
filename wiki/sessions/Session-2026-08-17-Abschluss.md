@@ -113,8 +113,8 @@ address: session-2026-08-17-abschluss
 - [[wiki/sessions/Session-2026-08-17-Abschluss.md|Dieses Dokument]]
 
 ### TODO-Listen:
-- [[wiki/meta/Session-2-TODO.md|Session 2 TODO (ursprünglich)]] — erweitert mit Sparkasse-Erkenntnissen
-- [[wiki/meta/Sparkasse-TODO-2026-08-17.md|Sparkasse Termin TODO]] — 4 Phasen mit neuer Phase 3
+- [[wiki/meta/archive/SESSION-2-TODO-ARCHIVE.md|Session 2 TODO (ursprünglich)]] — erweitert mit Sparkasse-Erkenntnissen
+- [[wiki/meta/archive/SPARKASSE-TODO-ARCHIVE.md|Sparkasse Termin TODO]] — 4 Phasen mit neuer Phase 3
 
 ### Hot Context:
 - [[wiki/hot.md]] — Updated mit allen Ergebnissen & neuer Phase 3 Struktur

@@ -70,7 +70,7 @@ Die **Markner Holding GmbH** ist das zentrale **Family Office und Kapitalsteuero
 - **Geschäftsführer:** [[Mark Markner]]
 - **Finanzierung:** KfW-Förderdarlehn (nicht Eigenkapital der Holding)
 - **Website-Launch:** Bis 30.09.2026
-- **Details:** Siehe [[IBA - Initiative Bau Archiv GmbH]]
+- **Details:** Siehe [[wiki/entities/IBA-Initiative-Bau-Archiv.md|IBA — Initiative Bau Archiv]]
 
 ### Geplant (Zu gründen/Zu erwerben)
 
@@ -88,7 +88,7 @@ Die **Markner Holding GmbH** ist das zentrale **Family Office und Kapitalsteuero
 - **Struktur:** Separate Gesellschaften pro Projekt (möglicherweise)
 - **Kapital:** Mark (15k€) + Michaela (50k€) Masterclass-Phase 2026-2027
 - **Ziel:** Gewinn-Generierung für Holding-Rekapitalisierung
-- **Details:** Siehe [[Fix & Flip Masterclass 2026-2027]]
+- **Details:** Siehe [[wiki/entities/Fix-und-Flip-Masterclass-2026-2027.md|Fix-und-Flip Masterclass]]
 
 #### 4. Weitere Firmenkäufe (Langfristig)
 - **Status:** Geplant (ab 2028+)
@@ -282,11 +282,11 @@ Ausschüttung (geplant):
 - [[Gelavije Markner]] (Betreiberin E-Commerce)
 
 **Tochtergesellschaften:**
-- [[IBA - Initiative Bau Archiv GmbH]] (100% owned)
+- [[wiki/entities/IBA-Initiative-Bau-Archiv.md|IBA — Initiative Bau Archiv]] (100% owned)
 
 **Systeme:**
-- [[JARVEN - Claude Obsidian Vault]] (Wissensmanagement)
-- [[Mark OS]] (Cockpit-Steuerung)
+- [[wiki/index.md|JARVIN Vault]] (Wissensmanagement)
+- [[wiki/entities/Mark-OS.md|Mark OS]] (Cockpit-Steuerung)
 
 ---
 

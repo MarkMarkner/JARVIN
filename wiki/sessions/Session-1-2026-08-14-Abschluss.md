@@ -57,8 +57,8 @@ address: session-1-001
 
 ### Meta & Governance (10)
 1. **[[wiki/meta/conventions.md]]** — Vault-Regeln & Best Practices (350 Zeilen)
-2. **[[wiki/meta/JARVEN-Roadmap.md]]** — Sessions 2-7, Agents 1-3, Mark OS (300 Zeilen)
-3. **[[wiki/meta/lint-results-2026-08-14.md]]** — QA Report (200+ Zeilen)
+2. **[[wiki/meta/JARVEN-Roadmap-Archive.md]]** — Sessions 2-7, Agents 1-3, Mark OS (300 Zeilen)
+3. **[[wiki/meta/archive/LINT-RESULTS-ARCHIVE.md]]** — QA Report (200+ Zeilen)
 4. **[[wiki/meta/system-documentation/index.md]]** — Hub für 7 Dokumentations-Seiten
 5-7. **01-architecture.md, 02-knowledge-model.md, 03-workflows.md** — Core Spec (2000+ Zeilen)
 8-10. **04-operations.md, 05-boundaries.md, 06-extensions.md, changelog.md** — Advanced Topics

@@ -52,6 +52,16 @@ address: governance-readme-001
 
 ---
 
+### **04. Wartungsroutine**
+[[04-wartungsroutine.md|Lese die Regel]]
+
+**Zweck:** Tägliche Integritätsprüfung des Vaults über Script  
+**Werkzeug:** `bash .claude/scripts/vault-lint.sh`  
+**Gültig ab:** 2026-08-18  
+**Status:** 🟢 Bindend
+
+---
+
 ## 🗂️ STRUKTUR DIESER ORDNER
 
 ```
@@ -60,7 +70,11 @@ address: governance-readme-001
 ├── rules-index.md (Detaillierter Index)
 ├── 01-sprachrichtlinie.md
 ├── 02-workflow-organization-rule.md
-└── 03-project-workflow-action-rule.md
+├── 03-project-workflow-action-rule.md
+└── 04-wartungsroutine.md
+
+.claude/scripts/
+└── vault-lint.sh (Prüf-Script zu Regel 04)
 ```
 
 ---
@@ -72,6 +86,8 @@ address: governance-readme-001
 | "In welcher Sprache dokumentiere ich?" | 01-sprachrichtlinie |
 | "Wo speichere ich Workflows?" | 02-workflow-organization-rule |
 | "Wie dokumentiere ich komplexe Projekte?" | 03-project-workflow-action-rule |
+| "Ist der Vault noch sauber?" | 04-wartungsroutine |
+| "Ich benenne etwas um — was beachten?" | 04-wartungsroutine (Prävention) |
 | "Übersicht aller Regeln?" | rules-index.md |
 
 ---

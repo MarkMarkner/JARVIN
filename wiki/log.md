@@ -20,6 +20,40 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ## 2026-08-18
 
+### op-wartungsroutine-rule-001 | governance
+**Typ**: Regel 04 (Wartungsroutine) + Prüf-Script erstellt  
+**Hauptseiten**: `.claude/governance/04-wartungsroutine.md`, `.claude/scripts/vault-lint.sh`  
+**Ergebnis**: ✅ Tägliche Wartung automatisiert & standardisiert
+
+**Werkzeug erstellt:**
+`.claude/scripts/vault-lint.sh` — 6 Checks, Exit-Code 0/1, ~15 Sek Laufzeit
+- Check 1: Defekte Wikilinks (mit Code-Block/Platzhalter-Filter)
+- Check 2: Frontmatter-Vollständigkeit
+- Check 3: Orphan-Dateien
+- Check 4: Session-Index-Aktualität
+- Check 5: Git-Hygiene (ungestagete Löschungen, ungepushte Commits)
+- Check 6: Projekt-Größen (Regel 03)
+
+**Sofortiger Nutzen:**
+Das Script fand 19 Befunde, die die manuelle Wartung derselben Session
+übersehen hatte (wiki/sessions/ und Entity-Dateien waren nicht im Scope).
+Alle behoben — Vault jetzt verifiziert sauber (Exit 0).
+
+**Regel 04 definiert:**
+- Tägliche Ausführung (bei Session-Start oder -Ende)
+- 5-Schritt-Ablauf: Ausführen → Bewerten → Beheben → Erneut prüfen → Dokumentieren
+- Standard-Behebung pro Befund-Kategorie
+- Prävention: 4-Schritt-Regel bei jeder Umbenennung
+- Klare Abgrenzung: Wartung stellt Integrität her, verändert keine Inhalte
+
+**Kernlehre dokumentiert:**
+Ad-hoc-Prüfungen sind unvollständig und erzeugen falsche Sicherheit.
+Jede Prüfung läuft über das Script.
+
+**Status**: ✅ REGEL AKTIV | 🟢 BINDEND | 🔧 SCRIPT GETESTET
+
+---
+
 ### op-vollwartung-2026-08-18-001 | maintenance
 **Typ**: Vollumfängliche Vault-Wartung  
 **Hauptseiten**: `wiki/meta/Wartungsbericht-2026-08-18.md`, diverse  

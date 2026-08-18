@@ -225,7 +225,7 @@ Mark Markner ist ein **strategischer Entrepreneur** und Bauingenieur aus Berlin 
 - **Struktur:** Tochtergesellschaft der Markner Holding GmbH
 - **Website-Launch:** Bis 30.09.2026
 - **Finanzierung:** Ausschließlich KfW-Förderdarlehn
-- **Details:** Siehe [[IBA - Initiative Bau Archiv GmbH]]
+- **Details:** Siehe [[wiki/entities/IBA-Initiative-Bau-Archiv.md|IBA — Initiative Bau Archiv]]
 
 ### 4. Fix & Flip Masterclass 2026-2027
 - **Status:** Gebucht (01.08.2026-31.07.2027)
@@ -362,15 +362,15 @@ Mark Markner ist ein **strategischer Entrepreneur** und Bauingenieur aus Berlin 
 **Organisationen:**
 - [[Ingenieurbüro Markner]] (Freiberuflich)
 - [[Markner Holding GmbH]] (Family Office)
-- [[IBA - Initiative Bau Archiv GmbH]] (Tochtergesellschaft)
+- [[wiki/entities/IBA-Initiative-Bau-Archiv.md|IBA — Initiative Bau Archiv]] (Tochtergesellschaft)
 
 **Projekte:**
-- [[Fix & Flip Masterclass 2026-2027]] (Hauptfokus)
-- [[E-Commerce Firmenkauf]] (In Planung)
+- [[wiki/entities/Fix-und-Flip-Masterclass-2026-2027.md|Fix-und-Flip Masterclass]] (Hauptfokus)
+- [[wiki/entities/E-Commerce-Akquisition-2026.md|E-Commerce Akquisition]] (In Planung)
 
 **Systeme:**
-- [[JARVEN - Claude Obsidian Vault]] (Wissensbasis)
-- [[Mark OS]] (Personales Cockpit & Management-System)
+- [[wiki/index.md|JARVIN Vault]] (Wissensbasis)
+- [[wiki/entities/Mark-OS.md|Mark OS]] (Personales Cockpit & Management-System)
 
 ---
 

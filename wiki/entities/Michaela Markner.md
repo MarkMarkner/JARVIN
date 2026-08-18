@@ -170,7 +170,7 @@ Michaela Markner ist [[Mark Markner]]s **Mutter** und **strategischer Partner** 
 
 **Organisationen:**
 - [[Markner Holding GmbH]] (Partner)
-- [[Fix & Flip Masterclass 2026-2027]] (Investor)
+- [[wiki/entities/Fix-und-Flip-Masterclass-2026-2027.md|Fix-und-Flip Masterclass]] (Investor)
 
 ---
 
