@@ -66,6 +66,41 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ---
 
+## 🎯 NEUE RULE: Projekt-Workflow-Action Standard (2026-08-18)
+
+**Datei:** `.claude/project-workflow-action-rule.md`  
+**Status:** 🟢 BINDEND & VERBINDLICH  
+**Gültig ab:** 2026-08-18
+
+**Das 3-Ebenen-Modell für komplexe Projekte:**
+
+```
+📊 PROJEKT (Strategic Level)
+    ↓ Links to
+🔧 WORKFLOW (Operative Level)  
+    ↓ Links to
+✅ MASTER-ACTION-ITEMS (Action Level)
+```
+
+**Was jede Ebene macht:**
+- **Projekt:** Owner, Status, Ziele, Meilensteine, Risiken (~70 Zeilen)
+- **Workflow:** Alle Phasen, Aufgaben, Checklisten, Templates (~650 Zeilen)
+- **Master-Items:** Einfache TODO zum Fortfahren (~12 Zeilen pro Projekt)
+
+**Trigger:** Verwendet für komplexe Projekte (5+ Phasen, >1 Monat, mehrere Stakeholder)
+
+**Pilot-Beispiel:** IBA-Kommunen-Akquisition (perfekt umgesetzt!)
+
+**Standard-Checkliste:** Bei Session-Ende (15-Punkte Validierungs-Checkliste)
+
+**Vorteile:**
+- Mark hat klaren Einstiegspunkt (Master-Items)
+- Details sind immer erreichbar (Workflow)
+- Strategischer Überblick vorhanden (Projekt)
+- Keine Redundanzen (Trennung der Ebenen)
+
+---
+
 ## 🎯 NEUE RULE: Workflow-Organisierung (2026-08-18)
 
 **Datei:** `.claude/workflow-organization-rule.md`  

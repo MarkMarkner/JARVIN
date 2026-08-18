@@ -20,6 +20,48 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ## 2026-08-18
 
+### op-project-workflow-action-rule-001 | governance
+**Typ**: Projekt-Workflow-Action Regel — Standardisiertes Vorgehen dokumentiert  
+**Hauptseiten**: `.claude/project-workflow-action-rule.md`, `wiki/hot.md`  
+**Ergebnis**: ✅ NEUE BINDENDE RULE — 3-Ebenen-Modell standardisiert
+
+**Details**:
+- **Kernregel:** Komplexe Projekte folgen IMMER 3-Ebenen-Modell
+  - Ebene 1 (Projekt): Strategic Overview (~70 Zeilen)
+  - Ebene 2 (Workflow): Operative Details (~650 Zeilen)
+  - Ebene 3 (Master-Items): Action Level (~12 Zeilen pro Projekt)
+- **Verlinkung:** Bidirektional (Projekt ↔ Workflow ↔ Master-Items)
+- **Wann anwenden:** Komplexe Projekte (5+ Phasen, >1 Monat, mehrere Stakeholder)
+- **Trigger:** Bei Session-Abschluss (Validierungs-Checkliste)
+- **Pilot:** IBA-Kommunen-Akquisition (perfektes Beispiel)
+- **Checklisten:** 
+  - 5-Schritt Erstellungs-Checkliste
+  - 15-Punkt Validierungs-Checkliste (vor Session-Ende)
+- **Templates:** Projekt, Workflow, Master-Action-Items (zum Kopieren)
+- **FAQ:** 4 häufige Fragen beantwortet
+
+**Kontext:**
+- Erkannt: Bewährtes Vorgehen aus IBA-Kommunen-Projekt
+- Dokumentiert: Standardisierung des Ansatzes
+- Bindend: Gilt für alle zukünftigen komplexen Projekte
+- Skalierbar: Checklisten ermöglichen schnelle Umsetzung
+
+**Vorteil des Modells:**
+- ✅ Mark hat klaren Einstiegspunkt (Master-Items)
+- ✅ Details sind immer erreichbar (Workflow)
+- ✅ Strategischer Überblick vorhanden (Projekt)
+- ✅ Keine Redundanzen (klare Trennung)
+- ✅ Skalierbar auf beliebig viele Projekte
+
+**Adoption:**
+- Sofort gültig für neue Projekte
+- Audit Sept 2026 für bestehende Projekte
+- Bindend & nicht optional
+
+**Status**: ✅ RULE AKTIV | 🟢 BINDEND AB 2026-08-18 | 📋 CHECKLISTEN READY
+
+---
+
 ### op-workflow-organization-rule-001 | governance
 **Typ**: Workflow-Organisierungsregel dokumentiert & etabliert  
 **Hauptseiten**: `.claude/workflow-organization-rule.md`, `wiki/hot.md`  
