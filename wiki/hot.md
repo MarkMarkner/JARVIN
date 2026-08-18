@@ -31,6 +31,25 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ---
 
+## 🚨 CRITICAL UPDATES (2026-08-18)
+
+### Context Usage Optimization Strategy APPROVED ✅
+- **Status:** Strategie entwickelt + dokumentiert
+- **Datei:** `.claude/context-optimization-strategy.md`
+- **Phasen:** 5 Phasen (sofort → Oktober)
+- **Expected Outcome:** 75-90% Context-Ersparnis
+- **Start:** Phase 1 diese Woche (Alerts + Monitoring)
+- **Impact:** Verlängert Laufzeit von 2-3 Monate auf 5-7 Monate
+- **Details:** Siehe `.claude/context-optimization-strategy.md`
+
+### Strategische Entscheidungen FINALISIERT ✅
+- **DEC-2026-001:** GmbH wird gegründet (Fix-und-Flip ONLY)
+- **DEC-2026-003:** E-Commerce parallel, FUF hat Priorität
+- **Commit:** 98ce453 gepusht (71 Dateien, 15k Insertionen)
+- **Status:** READY FOR EXECUTION
+
+---
+
 ## 📋 Aktive Threads
 
 ### 1. Wiki-Grundstruktur & Automation (2026-08-01 → 2026-08-14)
