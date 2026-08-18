@@ -36,6 +36,22 @@ address: session-index-001
 
 ## 📑 Alle Sitzungen (Neueste zuerst)
 
+### **Session-2026-08-18: Governance & IBA-Kommunen-Akquisition**
+**Schlüsselwörter:** #governance #regeln #iba-kommunen #workflow-struktur #website-launch  
+**Zusammenfassung:** IBA-Website online gegangen. Neues Projekt Kommunen-Akquisition (400 Kommunen, Phase 0.2) mit 3-Ebenen-Struktur erstellt. Drei bindende Governance-Regeln dokumentiert und in `.claude/governance/` strukturiert (Sprachrichtlinie, Workflow-Organisation, Projekt-Workflow-Action).  
+**Status:** ✅ Abgeschlossen  
+**Datei:** `[[wiki/sessions/Session-2026-08-18-Final-Briefing.md]]`
+
+---
+
+### **Session-2026-08-18: Context-Automation Finalisierung**
+**Schlüsselwörter:** #context-automation #sprachrichtlinie #phase-4-5 #smart-loading  
+**Zusammenfassung:** Context-Automation Phasen 1-3 implementiert (Monitoring, Summarization, Dynamic Loading). Sprachrichtlinie als bindende Regel etabliert. Phase 4-5 auf September 2026 terminiert (echte Daten nötig).  
+**Status:** ✅ Abgeschlossen  
+**Datei:** `[[wiki/sessions/Session-2026-08-18-Context-Automation-Finalization.md]]`
+
+---
+
 ### **Session-6: 2026-08-17 — Mark Interview: Mark OS Architektur**
 **Schlüsselwörter:** #mark-os #architektur #systemdesign #governance #zukunftsvision  
 **Zusammenfassung:** Marks Vision für Mark OS als persönliches Cockpit + Governance-Struktur für JARVEN. Diskussion von Architektur, UI/UX, Cloud vs. Self-Hosted, Sicherheit. Entscheidung: Cloud-basiert mit Local REST API Fallback.  
@@ -120,8 +136,8 @@ address: session-index-001
 
 | Metrik | Wert |
 |--------|------|
-| Gesamte Sitzungen | 11 |
-| Sitzungen Abgeschlossen | 11 |
+| Gesamte Sitzungen | 13 |
+| Sitzungen Abgeschlossen | 13 |
 | Index-Größe | ~2-3 KB (vs. ~172 KB volle Sitzungen) |
 | Context-Ersparnis | 98% |
 | Durchschnittliche Zusammenfassungszeilen | 2-3 |

@@ -64,7 +64,7 @@ Ist das kein Workflow?
 
 ```
 .claude/ (System Configuration & Rules)
-├── sprachrichtlinie.md                    ✅ Sprach-Regeln
+├── governance/01-sprachrichtlinie.md      ✅ Sprach-Regeln
 ├── workflow-organization-rule.md          ✅ Diese Datei!
 ├── system-coherence-analysis.md           ✅ System-Audits
 ├── daily-workflow-briefing.md             ✅ Anleitung für Nutzer
@@ -216,7 +216,7 @@ wiki/projects/E-Commerce-Akquisition-2026.md:
 
 ## Operativer Workflow
 
-Siehe: [[wiki/workflows/E-Commerce-Onboarding-Workflow.md|Detaillierter Workflow]]
+Siehe: `[[wiki/workflows/E-Commerce-Onboarding-Workflow.md|Detaillierter Workflow]]`
 ```
 
 **Schritt 4: Dokumentation in log.md**
@@ -335,7 +335,7 @@ wiki/projects/IBA-Initiative-Bau-Archiv.md
 
 ## 🔗 VERKNÜPFUNGEN
 
-- [[.claude/sprachrichtlinie.md|Sprachrichtlinie]] (Verwandte Regel)
+- [[.claude/governance/01-sprachrichtlinie.md|Sprachrichtlinie]] (Verwandte Regel)
 - [[wiki/workflows/|Workflows Ordner]] (Alle Workflows)
 - [[wiki/projects/|Projects Ordner]] (Alle Projekte)
 

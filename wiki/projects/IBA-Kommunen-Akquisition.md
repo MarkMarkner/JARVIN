@@ -170,7 +170,7 @@ Siehe: [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Workflow Dokumentation]
 ## 🔗 VERKNÜPFUNGEN
 
 **Verwandte Dokumente:**
-- [[.claude/iba-kommunen-kontakt-workflow.md|Workflow Detailliert]]
+- [[wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md|Workflow Detailliert]]
 - [[wiki/entities/IBA-Initiative-Bau-Archiv.md|IBA Entity]]
 - [[wiki/projects/IBA-Initiative-Bau-Archiv.md|IBA Master Project]]
 - [[wiki/meta/Master-Action-Items-2026.md|Master TODO]]

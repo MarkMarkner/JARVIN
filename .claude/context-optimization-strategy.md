@@ -104,7 +104,7 @@ NEUER MODUS: "Smart Context Loading"
 │  └─ Decisions (auf Bedarf)
 │
 ├─ Bei Bedarf: Explizit laden mit @filename.md
-│  └─ Nutzer: "lies [[wiki/sessions/Session-3.md]]"
+│  └─ Nutzer: "lies [[wiki/sessions/Session-3-2026-08-17-Fix-und-Flip-Detail-Workflow.md]]"
 │  └─ System: Nur diese Datei laden (nicht alle!)
 │
 └─ On-Demand Archive: Historische Sessions (abrufbar, nicht preloaded)

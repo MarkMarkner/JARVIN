@@ -132,7 +132,9 @@ address: entity-mark-001
 - ✅ Bidirektionale Links vorhanden (z.B., Mark ↔ Gelavije)
 - ✅ Entity-Links in Sessions/Projects
 - ✅ Session-Index für schnelle Navigation
-- ✅ Keine broken links erkannt
+- ⚠️ **KORREKTUR (Wartung 2026-08-18):** Diese Aussage war ungeprüft.
+  Die tatsächliche Messung ergab **6 defekte Links**. Alle behoben.
+  Siehe [[wiki/meta/Wartungsbericht-2026-08-18.md|Wartungsbericht]].
 
 **Beispiel (funktionierende Verlinkung):**
 ```
@@ -363,7 +365,7 @@ Kohärenz-Bewertung (Schulnoten):
 
 Architektur:              A (1.0) ✅ Sehr sauber
 Metadaten:               A (1.0) ✅ Standardisiert
-Verlinkung:              A (1.0) ✅ Robust
+Verlinkung:              C (3.0) ⚠️ 6 defekte Links (behoben 18.8., ungeprüft geschätzt)
 Session-Optimierung:     A (1.0) ✅ Gelungen
 Governance:              A (1.3) ✅ Strukturiert
 

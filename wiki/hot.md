@@ -426,7 +426,7 @@ Uninterrupted work: 8+ hours (all day!)
    - 3c. Kreditvertrag finalisieren
    - 3d. Renovierung & Vermietung
 
-**TODO-Liste:** [[wiki/meta/Sparkasse-TODO-2026-08-17.md|Sparkasse Termin — Nächste Schritte & TODO]]
+**TODO-Liste:** [[wiki/meta/archive/SPARKASSE-TODO-ARCHIVE.md|Sparkasse Termin — TODO (archiviert)]]
 
 ---
 
@@ -469,7 +469,7 @@ Uninterrupted work: 8+ hours (all day!)
 - **Fällig bis:** 2026-08-21
 - **Status:** ⏳ Pending (abhängig von Task 1)
 
-**Vollständige TODO-Liste:** [[wiki/meta/Session-2-TODO.md|Session 2 — TODO Nächste Schritte]]
+**Vollständige TODO-Liste:** [[wiki/meta/archive/SESSION-2-TODO-ARCHIVE.md|Session 2 — TODO (archiviert)]]
 
 ---
 

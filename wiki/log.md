@@ -20,6 +20,35 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ## 2026-08-18
 
+### op-vollwartung-2026-08-18-001 | maintenance
+**Typ**: Vollumfängliche Vault-Wartung  
+**Hauptseiten**: `wiki/meta/Wartungsbericht-2026-08-18.md`, diverse  
+**Ergebnis**: ✅ 11 Fehler behoben | ⚠️ 2 Strukturentscheidungen offen
+
+**Geprüft:**
+- 88 Markdown-Dateien, 262 einzigartige Wikilinks
+- Frontmatter-Vollständigkeit, Orphans, Duplikate, Git-Status
+
+**Behoben:**
+- 6 defekte Links (durch Refactors/Archivierungen entstanden)
+- 3 Platzhalter-Links als Code-Spans entschärft
+- 1 fehlendes Frontmatter (`.claude/vault-session-config.md`)
+- 1 veralteter Session-Index (11 → 13 Sessions)
+- Git-Staging bereinigt (3 gelöschte Regel-Dateien)
+
+**Wichtige Korrektur:**
+Die Kohärenz-Analyse behauptete "Keine broken links (A/1.0)" — diese
+Aussage war ungeprüft und falsch. Tatsächlich: 6 defekte Links.
+Bewertung auf C (3.0) korrigiert, Analyse-Datei mit Hinweis versehen.
+
+**Offene Entscheidungen für Mark:**
+- Befund A: 4 Projekte (393-575 Zeilen) verletzen neue Regel 03 (50-200 Zeilen)
+- Befund B: 4 identische Dateinamen in entities/ und projects/
+
+**Status**: ✅ WARTUNG COMPLETE | 📋 2 ENTSCHEIDUNGEN OFFEN
+
+---
+
 ### op-project-workflow-action-rule-001 | governance
 **Typ**: Projekt-Workflow-Action Regel — Standardisiertes Vorgehen dokumentiert  
 **Hauptseiten**: `.claude/governance/03-project-workflow-action-rule.md`, `wiki/hot.md`  

@@ -1,3 +1,16 @@
+---
+type: meta
+title: JARVEN Session Management Konfiguration
+status: active
+created: 2026-08-14
+updated: 2026-08-18
+tags:
+  - config
+  - session-management
+  - automation
+address: vault-session-config-001
+---
+
 # JARVEN Session Management Configuration
 
 **Status**: ✅ ACTIVE  

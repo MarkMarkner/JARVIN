@@ -290,7 +290,7 @@ title: Mark OS Integration — Desktop Cockpit Setup
 - API Komplexität (Fallback: Simpler API Start)
 
 Operativer Workflow:
-→ [[wiki/workflows/Mark-OS-Integration-Workflow.md|Workflow]]
+→ `[[wiki/workflows/Mark-OS-Integration-Workflow.md|Workflow]]`
 ```
 
 ### Schritt 2: Workflow erstellen
@@ -334,7 +334,7 @@ wiki/meta/Master-Action-Items-2026.md
 ## 🎯 MARK-OS-INTEGRATION — 5 EINFACHE ACTIONS
 
 - [ ] Phase 1: REST API Design (2026-10-15)
-  Siehe [[wiki/workflows/...]] für Details
+  Siehe `[[wiki/workflows/...]]` für Details
 
 - [ ] Phase 2: API Implementation (2026-11-15)
   Siehe Workflow...

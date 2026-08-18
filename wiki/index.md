@@ -26,7 +26,8 @@ Zentrale Navigations- und Katalogseite für die **JARVEN**-Wissensbasis (Gedäch
 - [[wiki/log.md|Operation Log]] — Abgeschlossene Operationen (neueste zuerst)
 - [[wiki/meta/conventions.md|Conventions & Guidelines]] — Vault-Regeln und Best Practices
 - [[wiki/meta/system-documentation/index.md|Systemdokumentation]] — Vollständige Architektur & Erklärung
-- [[wiki/meta/JARVEN-Roadmap.md|JARVEN Roadmap & To-Do List]] — Sessions 2-6, Agents, Mark OS
+- [[wiki/meta/JARVEN-Roadmap-Archive.md|JARVEN Roadmap (archiviert)]] — Sessions 2-6, Agents, Mark OS
+- [[wiki/meta/Master-Action-Items-2026.md|Master-Action-Items]] — Aktive TODO-Liste (Source of Truth)
 
 ---
 
