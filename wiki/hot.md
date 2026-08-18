@@ -66,6 +66,37 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ---
 
+## 🎯 NEUE RULE: Workflow-Organisierung (2026-08-18)
+
+**Datei:** `.claude/workflow-organization-rule.md`  
+**Status:** 🟢 BINDEND & AKTIV  
+**Gültig ab:** 2026-08-18
+
+**Kernregel:**
+```
+Alle Projekt-Workflows gehören in wiki/workflows/ — NICHT in .claude/
+```
+
+**Was das bedeutet:**
+- ✅ `wiki/workflows/` = Alle operativen Projekt-Workflows
+- ✅ `.claude/` = NUR System-Config & Meta (Regeln, Automation, Audits)
+- ✅ `wiki/projects/` = Projekt-Übersicht verlinkt zu Workflows (bidirektional)
+
+**Checkliste für neue Workflows:**
+1. [ ] Datei in `wiki/workflows/[Name]-Workflow.md`
+2. [ ] YAML-Frontmatter mit `type: workflow`
+3. [ ] Bidirektionale Links zu Projekt
+4. [ ] Entry in `wiki/log.md`
+5. [ ] Naming: `[Projekt]-[Prozess]-Workflow.md`
+
+**Beispiele (eingerichtet):**
+- ✅ `wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md` (gerade refactored)
+- Zukünftig: Fix-und-Flip, E-Commerce, Mark-OS Workflows
+
+**Validierungs-Checkliste:** In Regel dokumentiert (15-Punkte Checkliste)
+
+---
+
 ## 🔍 SYSTEM KOHÄRENZ-AUDIT COMPLETE (2026-08-18)
 
 ### Tiefe Analyse durchgeführt

@@ -20,6 +20,60 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ## 2026-08-18
 
+### op-workflow-organization-rule-001 | governance
+**Typ**: Workflow-Organisierungsregel dokumentiert & etabliert  
+**Hauptseiten**: `.claude/workflow-organization-rule.md`, `wiki/hot.md`  
+**Ergebnis**: ✅ NEUE BINDENDE RULE — Dezentrale Workflow-Struktur
+
+**Details**:
+- **Kernregel:** Alle Projekt-Workflows gehören in `wiki/workflows/`, NICHT in `.claude/`
+- **Architektur geklärt:**
+  - `.claude/` = Nur System-Config & Meta (Regeln, Automation, Audits)
+  - `wiki/workflows/` = Alle operativen Projekt-Workflows
+  - `wiki/projects/` = Projekt-Management verlinkt zu Workflows
+- **Verlinkungsregel:** Bidirektionale Links (Projekt ↔ Workflow)
+- **Naming-Konvention:** `[Projekt]-[Prozess]-Workflow.md`
+- **Checklisten:** Validierungs-Checkliste (15 Punkte) & Erstellungs-Checkliste
+- **Adoptionsplan:** Sofort gültig, Audit Sept 2026
+- **FAQ:** 4 häufige Fragen beantwortet
+
+**Kontext:**
+- Ausgelöst durch Benutzer-Feedback zur Dezentralisierung
+- Danach: Refactor von `.claude/iba-kommunen-kontakt-workflow.md` → `wiki/workflows/`
+- Diese Regel dokumentiert die neue Best-Practice
+- Skalierbar: Alle zukünftigen Workflows folgen dieser Struktur
+
+**Dateien betroffen:**
+- `.claude/workflow-organization-rule.md` (neu)
+- `wiki/hot.md` (aktualisiert mit Regel-Info)
+- `wiki/workflows/` (neue zentrale Location für alle Workflows)
+
+**Implikationen:**
+- ✅ Konsistente Struktur für alle Workflows
+- ✅ Dezentralisierung & Skalierbarkeit
+- ✅ Klare Trennung System-Config ↔ Arbeit-Workflows
+- ✅ Bessere Wartbarkeit & Navigation
+- ✅ Futures-proof: Einfach neue Workflows hinzufügen
+
+**Status**: ✅ RULE AKTIV | 🟢 BINDEND AB 2026-08-18 | 📋 AUDIT PLANNED SEPT 2026
+
+---
+
+### op-workflow-refactor-001 | refactor
+**Typ**: Workflow-Refactor: Dezentralisierung implementiert  
+**Hauptseiten**: `wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md`, `wiki/projects/IBA-Kommunen-Akquisition.md`, `wiki/hot.md`  
+**Ergebnis**: ✅ REFACTOR COMPLETE — Dezentrale Struktur aktiv
+
+**Details**:
+- Datei verschoben: `.claude/iba-kommunen-kontakt-workflow.md` → `wiki/workflows/IBA-Kommunen-Kontakt-Workflow.md`
+- Alle Links aktualisiert (hot.md, IBA-Projekt)
+- Alte Datei gelöscht
+- Architektur nun konsistent & dezentralisiert
+
+**Status**: ✅ COMPLETE | 🟢 PRODUCTIVE
+
+---
+
 ### op-iba-website-launch-001 | milestone
 **Typ**: IBA Website Launch Notification  
 **Hauptseiten**: `wiki/entities/IBA-Initiative-Bau-Archiv.md`, `wiki/projects/IBA-Initiative-Bau-Archiv.md`, `wiki/hot.md`  
