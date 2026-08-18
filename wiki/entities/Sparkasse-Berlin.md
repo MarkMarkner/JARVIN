@@ -118,6 +118,7 @@ Die Sparkasse Berlin ist **nicht** exklusiv. Parallel werden verhandelt:
 
 - [ ] **Schriftliche Konditionsbestätigung einholen** (aktuell nur mündlich)
 - [ ] Eigenkapitallücke 40–50k€ schließen (Voraussetzung für Antrag)
+      → neuer Kandidat: [[wiki/entities/Günay Cakir.md|Günay Cakir]] (Volumen offen)
 - [ ] Bausparvertrag Michaela (50k€) als EK formell arrangieren
 - [ ] Prüfungsantrag mit konkretem Objekt einreichen
 - [ ] Projektentwickler-Darlehen separat prüfen (von Bank angeboten)

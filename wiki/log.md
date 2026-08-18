@@ -20,6 +20,47 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ## 2026-08-18
 
+### op-investor-guenay-cakir-001 | ingest
+**Typ**: Neuer Investor-Kontakt erfasst  
+**Hauptseiten**: `wiki/entities/Günay Cakir.md`, `wiki/meta/Master-Action-Items-2026.md`, `wiki/hot.md`  
+**Ergebnis**: ✅ Entity angelegt | 🔴 Neuer Task 0c (Blockade-Löser)
+
+**Information:**
+Günay Cakir (privater Investor) hat Interesse an einer Beteiligung
+geäußert. Zweck: Erhöhung des Eigenkapitals.
+
+**Strategische Einordnung:**
+Erster konkreter Kandidat für Lösungsansatz 2 („Weitere Investoren") aus
+dem Sparkasse-Termin. Die EK-Lücke von 40–50k€ ist die Hauptblockade für
+Task 3a-Phase B (Immobilien-Akquise). Bisher hing deren Lösung
+ausschließlich an der E-Commerce-Akquise (Task 0a) — jetzt gibt es einen
+zweiten, unabhängigen Weg.
+
+**Was bekannt ist:** Name, Typ (privater Investor), Interesse geäußert.
+
+**Was NICHT bekannt ist (kritisch):**
+- Investitionsvolumen ← entscheidet, ob die Blockade gelöst wird
+- Modell (Beteiligung / Darlehen / Provision)
+- Renditeerwartung
+- Timeline
+- Beziehung zu Mark
+
+Diese Punkte sind in der Entity als offene Fragen dokumentiert, nicht
+mit Annahmen gefüllt.
+
+**Neuer Task:** 0c — Gespräch führen (Deadline 2026-08-31, Priorität HIGH)
+
+**Rechtlicher Prüfpunkt notiert:** Bei mehreren privaten Kapitalgebern
+ist KWG / Prospektpflicht zu prüfen (war bereits im Sparkasse-Termin als
+Thema notiert).
+
+**Verlinkt aus:** Sparkasse-Entity, Sparkasse-Termin-Protokoll,
+Master-Action-Items, hot.md
+
+**Status**: ✅ ERFASST | 🟡 Konditionen offen | Lint Exit 0
+
+---
+
 ### op-entity-sparkasse-001 | ingest
 **Typ**: Entity Sparkasse Berlin erstellt + Befund-A-Erinnerung eingerichtet  
 **Hauptseiten**: `wiki/entities/Sparkasse-Berlin.md`, 4 Projektdateien, `.claude/governance/04-wartungsroutine.md`  

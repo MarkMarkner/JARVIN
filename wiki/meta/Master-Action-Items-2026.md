@@ -233,6 +233,40 @@ Profitables E-Commerce Unternehmen finden, prüfen, übernehmen → Cashflow-Gen
 
 ---
 
+### **0c. INVESTOR GÜNAY CAKIR — GESPRÄCH FÜHREN** 🆕
+**Phase:** Phase 0 (EK-Blockade-Löser)  
+**Deadline:** 2026-08-31 (zeitnah — Interesse ist frisch)  
+**Priorität:** 🔴 **HIGH — potenzieller BLOCKADE-LÖSER**  
+**Owner:** Mark  
+**Status:** 🟡 **INTERESSE GEÄUSSERT** (erfasst 2026-08-18)
+
+**Aufgabe:**
+Gespräch mit Günay Cakir führen und Investitionsrahmen klären.
+
+**Warum wichtig:**
+Erster konkreter Kandidat für Lösungsansatz 2 („Weitere Investoren").
+Reduziert die Abhängigkeit davon, dass die E-Commerce-Akquise (Task 0a)
+rechtzeitig Cashflow liefert.
+
+**Zu klären (entscheidend für Bewertung):**
+- [ ] **Investitionsvolumen?** ← Bei 10k€ bleibt Blockade, bei 50k€ gelöst
+- [ ] Beteiligung, Darlehen oder Provisionsmodell?
+- [ ] Erwartete Rendite / Konditionen?
+- [ ] Zeitliche Verfügbarkeit (passt zum Immobilien-Zeitplan)?
+- [ ] Einmalig oder für mehrere Flips?
+
+**Danach:**
+- [ ] Vertragsmodell festlegen (Michaela-Modell als Vorlage prüfen)
+- [ ] Rechtsprüfung bei mehreren Investoren (KWG / Prospektpflicht)
+- [ ] EK-Lücke neu bewerten
+
+**Entity:** [[wiki/entities/Günay Cakir.md|Günay Cakir]]
+
+**Abhängigkeiten:** Keine — kann sofort starten  
+**Blockiert:** Task 3a-Phase B (Immobilien-Akquise) wartet auf EK
+
+---
+
 ### **0b. SPARQUOTE WEITERLAUFEN**
 **Phase:** Phase 0 (Continuous)  
 **Deadline:** Ongoing  

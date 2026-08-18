@@ -33,6 +33,20 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ## 🚀 AKTUELLE NEWS (2026-08-18)
 
+### 💰 **NEUER INVESTOR-KONTAKT: Günay Cakir**
+**Status:** 🟡 Interesse geäußert (keine Zusage, Konditionen offen)  
+**Bedeutung:** Erster konkreter Kandidat zur Schließung der EK-Lücke (40–50k€)  
+**Entity:** [[wiki/entities/Günay Cakir.md|Günay Cakir]]
+
+Die EK-Lücke ist die **Hauptblockade** für die Immobilien-Akquise
+(Task 3a-Phase B). Bisher hing die Lösung an der E-Commerce-Akquise —
+jetzt gibt es einen zweiten Weg.
+
+**Kritische offene Frage: Welches Volumen?**
+Bei 10k€ bleibt die Blockade bestehen, bei 50k€ ist sie gelöst.
+
+**Nächster Schritt:** Gespräch führen (Task 0c, Deadline 31.08.)
+
 ### 🟢 **IBA WEBSITE LIVE!**
 **Status:** Website www.initiative-bau-archiv.de ist ONLINE  
 **Funktion:** Endnutzer können sich informieren + Pilotpartner-Bewerbung aktiviert  

@@ -75,6 +75,7 @@ address: meeting-sparkasse-001
 
 1. **E-Commerce Unternehmen** — Akquise & Übernahme (positiver Cashflow)
 2. **Weitere Investoren** — Partner-Kapital
+   → ✅ Kandidat identifiziert (18.08.2026): [[wiki/entities/Günay Cakir.md|Günay Cakir]], Volumen offen
 3. **Bausparvertrag** — Michaelas 50k€ nutzen
 4. **Sparquote** — Marks monatliche 2.500€ akkumulieren
 
