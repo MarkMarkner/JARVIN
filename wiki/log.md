@@ -20,6 +20,35 @@ Protokoll abgeschlossener logischer Operationen (nicht einzelne Datei-Writes).
 
 ## 2026-08-18
 
+### op-iba-website-launch-001 | milestone
+**Typ**: IBA Website Launch Notification  
+**Hauptseiten**: `wiki/entities/IBA-Initiative-Bau-Archiv.md`, `wiki/projects/IBA-Initiative-Bau-Archiv.md`, `wiki/hot.md`  
+**Ergebnis**: ✅ IBA WEBSITE ONLINE — Kritischer Meilenstein für Phase 0.2
+
+**Details**:
+- **Website:** www.initiative-bau-archiv.de ist jetzt ONLINE (2026-08-18)
+- **Funktionen:** Endnutzer-Informationen + Pilotpartner-Bewerbung AKTIV
+- **Bedeutung:** Kritischer Startpunkt für systematische Endnutzer-Akquisition
+- **Phase 0.2 Impact:** Automatische Bewerbungskanal für 400 Kommunen + Industriekunden
+- **Entity Updated:** IBA-Initiative-Bau-Archiv.md mit Website-Status
+- **Hot Context Updated:** Aktuelle News Sektion hinzugefügt
+
+**Implikationen:**
+- Website ist "offizielle" Anlaufstelle für alle Interessenten
+- Pilotpartner können sich direkt online bewerten (automatisiert?)
+- Marketing-Kampagne kann jetzt starten (Top 50 Kommunen informieren)
+- Proof-of-Concept (50TB / 200 Nutzer) wird ab heute zählbar
+
+**Nächste Schritte:**
+- [ ] Pilotpartner-Bewerbungen trackbar machen (monitoring)
+- [ ] Top 50 Kommunen über Website informieren (direkt)
+- [ ] Abfrage der bisherigen Bewerbungen (falls bereits welche da)
+- [ ] Analytics für Website-Traffic aktivieren (Interesse messen)
+
+**Status**: ✅ MILESTONE REACHED | 🚀 Phase 0.2 (Endnutzer-Akquisition) can accelerate NOW
+
+---
+
 ### op-session-2026-08-18-complete-001 | session
 **Typ**: Session 2026-08-18 Abschluss — Context Automation Finalization  
 **Hauptseiten**: `wiki/sessions/Session-2026-08-18-Context-Automation-Finalization.md`, `wiki/meta/Master-Action-Items-2026.md`  

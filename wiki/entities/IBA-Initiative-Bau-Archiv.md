@@ -29,7 +29,9 @@ address: entity-iba-001
 **Gegründet:** 01.01.2026  
 **Owner/GF:** [[wiki/entities/Mark Markner.md|Mark Markner]]  
 **Holding:** [[wiki/entities/Markner Holding GmbH.md|Markner Holding GmbH]] (Tochtergesellschaft)  
-**Website:** www.initiative-bau-archiv.de
+**Website:** www.initiative-bau-archiv.de  
+**Website-Status:** 🟢 **ONLINE** (seit 2026-08-18)  
+**Endnutzer-Funktionen:** Informationen + Pilotpartner-Bewerbung aktiv
 
 ---
 
@@ -72,10 +74,12 @@ address: entity-iba-001
 
 | Metrik | Status |
 |--------|--------|
-| **Kunden** | 0 (Pre-Launch) |
+| **Kunden** | 0 (Pre-Launch, Pilotphase starting) |
 | **Umsatz** | 0€ |
 | **Kapital-Einlage** | 25.000€ (Holding) |
-| **Phase** | Förder-Prozess |
+| **Phase** | Förder-Prozess + Website-Launch |
+| **Website** | 🟢 ONLINE (2026-08-18) |
+| **Pilotpartner-Bewerbung** | 🟢 AKTIV |
 
 ---
 

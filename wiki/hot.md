@@ -31,6 +31,20 @@ Sanitierte, begrenzte, aktuelle Kontexte für die nächste Session.
 
 ---
 
+## 🚀 AKTUELLE NEWS (2026-08-18)
+
+### 🟢 **IBA WEBSITE LIVE!**
+**Status:** Website www.initiative-bau-archiv.de ist ONLINE  
+**Funktion:** Endnutzer können sich informieren + Pilotpartner-Bewerbung aktiviert  
+**Bedeutung:** Kritischer Meilenstein für Endnutzer-Akquisition (Phase 0.2)  
+**Entity Updated:** [[wiki/entities/IBA-Initiative-Bau-Archiv.md|IBA Entity]] mit Website-Status  
+**Nächste Schritte:**
+- [ ] Pilotpartner-Bewerbungen tracken (starten ab heute?)
+- [ ] Marketing-Kampagne koordinieren
+- [ ] Top 50 Kommunen über Website informieren
+
+---
+
 ## 🔍 SYSTEM KOHÄRENZ-AUDIT COMPLETE (2026-08-18)
 
 ### Tiefe Analyse durchgeführt
